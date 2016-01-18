@@ -4,6 +4,7 @@
 
 #Print Header
 print "Manager History - Data Mining Script"
+print "Version 1"
 print " "
 
 print "Professor Eric Schwartz"
