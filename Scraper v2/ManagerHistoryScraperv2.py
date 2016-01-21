@@ -1,8 +1,3 @@
-#In: URL
-#Out: CSV of Manager Information
-#ON GITHUB NOW
-
-#Print Header
 print "Manager History - Data Mining Script"
 print "Version 1"
 print " "
@@ -27,6 +22,8 @@ import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
+
+#Starting Class & Class Method Definitions
 class DataScraper:
 	"Class that handles all Data Scraping Instance/Class Vars & Methods"
 
@@ -35,7 +32,6 @@ class DataScraper:
 		self.url = url
 		self.headerSet = []
 		self.managerSet = []
-
 
 	def runScraper(self):
 		"Will Run Data Scraping"
@@ -73,7 +69,6 @@ class DataScraper:
 			if len(managerInfo) > 0:
 				self.managerSet.append(tuple(managerInfo))
 
-
 	def writeData (self):
 		"Writes Data into .csv"
 
@@ -97,7 +92,6 @@ class DataScraper:
 				pass
 				#print "Error in Writing Manager Information for "
 
-		#Closing
 		outfile.close()
 		print "Script Complete for " + teamName + "\n"
 
@@ -105,6 +99,8 @@ class DataScraper:
 #----------
 #EXECUTION
 #----------
+
+#SOURCE: https://en.wikipedia.org/wiki/Template:Lists_of_English_football_managers
 
 url_set = {"Arsenal":"https://en.wikipedia.org/wiki/List_of_Arsenal_F.C._managers",
 			"AstonVilla":"https://en.wikipedia.org/wiki/List_of_Aston_Villa_F.C._managers",
@@ -126,14 +122,11 @@ url_set = {"Arsenal":"https://en.wikipedia.org/wiki/List_of_Arsenal_F.C._manager
 			"WestBrom":"https://en.wikipedia.org/wiki/List_of_West_Bromwich_Albion_F.C._managers",
 			"WestHam":"https://en.wikipedia.org/wiki/West_Ham_United_F.C._managers"}
 
-
 for team in url_set.keys():
-
 	try:
 		teamName = str(team)
 		team = DataScraper(url_set[team])
 		team.runScraper()
 		team.writeData()
-		
 	except Exception:
 		print "Failed for Team: " + teamName + "\n"
