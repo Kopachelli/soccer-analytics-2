@@ -78,7 +78,7 @@ class DataScraper:
 		"Writes Data into .csv"
 
 		outfile_name = teamName + "managers.csv"
-		print "Outfile Name: " + outfile_name + '\n'
+		print "Outfile Name: " + outfile_name
 		outfile = open(outfile_name, "wb")
 
 		mywriter = csv.writer(outfile)
@@ -128,10 +128,12 @@ url_set = {"Arsenal":"https://en.wikipedia.org/wiki/List_of_Arsenal_F.C._manager
 
 
 for team in url_set.keys():
+
 	try:
 		teamName = str(team)
 		team = DataScraper(url_set[team])
 		team.runScraper()
 		team.writeData()
+		
 	except Exception:
-		print "Failed for Team: " + teamName
+		print "Failed for Team: " + teamName + "\n"
