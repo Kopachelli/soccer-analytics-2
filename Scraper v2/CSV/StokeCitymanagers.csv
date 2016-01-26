@@ -1,42 +1,42 @@
-Name,Nationality,From,To,P,W,D,L,Win%,Honours,Notes
-"[u'Slaney, Thomas', u'Thomas Slaney']","[u'\xa0', u'England']",[u'1874'],[u'1883'],[u'0'],[u'0'],[u'0'],[u'0'],"[u'!', u'\u2014']",[],"[u'[', u'1', u']']"
-"[u'Cox, Walter', u'Walter Cox']","[u'\xa0', u'England']",[u'1883'],[u'1884'],[u'1'],[u'0'],[u'0'],[u'1'],"[u'0', u'0.00']",[],"[u'[', u'13', u']']"
-"[u'Lockett, Harry', u'Harry Lockett']","[u'\xa0', u'England']",[u'1884'],[u'1890'],[u'55'],[u'13'],[u'9'],[u'33'],[u'23.64'],[],"[u'[', u'14', u']']"
-"[u'Bradshaw, Joseph', u'Joseph Bradshaw']","[u'\xa0', u'England']",[u'1890'],[u'1892'],[u'33'],[u'9'],[u'5'],[u'19'],[u'27.27'],"[u'1 ', u'Football Alliance', u' champion ']","[u'[', u'15', u']']"
-"[u'Reeves, Arthur', u'Arthur Reeves']","[u'\xa0', u'England']",[u'1892'],[u'1895'],[u'96'],[u'37'],[u'14'],[u'45'],[u'38.54'],[],"[u'[', u'16', u']']"
-"[u'Rowley, Bill', u'Bill Rowley']","[u'\xa0', u'England']",[u'1895'],[u'1897'],[u'66'],[u'29'],[u'4'],[u'33'],[u'43.94'],[],"[u'[', u'17', u']']"
-"[u'Austerberry, Horace', u'Horace Austerberry']","[u'\xa0', u'England']",[u'1897'],[u'1908'],[u'421'],[u'149'],[u'89'],[u'183'],[u'35.39'],[],"[u'[', u'18', u']']"
-"[u'Barker, Alfred', u'Alfred Barker']","[u'\xa0', u'England']",[u'1908'],[u'1914'],[u'256'],[u'130'],[u'35'],[u'91'],[u'50.78'],"[u'1 ', u'Birmingham & District League', u' champion', u'\n1 ', u'Southern League Division Two', u' champion', u'\n1 ', u'Southern League Division Two', u' runner-up ']","[u'[', u'19', u']']"
-"[u'Hodge, Peter', u'Peter Hodge']","[u'\xa0', u'Scotland']",[u'1914'],[u'1915'],[u'30'],[u'21'],[u'4'],[u'5'],[u'70.00'],"[u'1 ', u'Southern League Division Two', u' champion ']","[u'[', u'20', u']']"
-"[u'Schofield, Joe', u'Joe Schofield']","[u'\xa0', u'England']",[u'1915'],[u'1919'],[u'0'],[u'0'],[u'0'],[u'0'],"[u'!', u'\u2014']",[],"[u'[', u'1', u']']"
-"[u'Shallcross, Arthur', u'Arthur Shallcross']","[u'\xa0', u'England']",[u'1919'],[u'1923'],[u'171'],[u'59'],[u'43'],[u'69'],[u'34.50'],"[u'1 ', u'Second Division', u' runner-up ']","[u'[', u'21', u']']"
-"[u'Rutherford, Jock', u'Jock Rutherford']","[u'\xa0', u'England']",[u'1923'],[u'1923'],[u'11'],[u'2'],[u'3'],[u'6'],[u'18.18'],[],"[u'[', u'22', u']']"
-"[u'Mather, Tom', u'Tom Mather']","[u'\xa0', u'England']",[u'1923'],[u'1935'],[u'523'],[u'222'],[u'122'],[u'179'],[u'42.45'],"[u'1 ', u'Second Division', u' champion', u'\n1 ', u'Third Division North', u' champion ']","[u'[', u'23', u']']"
-"[u'McGrory, Bob', u'Bob McGrory']","[u'\xa0', u'Scotland']",[u'1935'],[u'1952'],[u'460'],[u'170'],[u'114'],[u'176'],[u'36.96'],[],"[u'[', u'24', u']']"
-"[u'Taylor, Frank', u'Frank Taylor']","[u'\xa0', u'England']",[u'1952'],[u'1960'],[u'362'],[u'146'],[u'79'],[u'137'],[u'40.33'],[],"[u'[', u'25', u']']"
-"[u'Waddington, Tony', u'Tony Waddington']","[u'\xa0', u'England']",[u'1960'],[u'1977'],[u'764'],[u'265'],[u'216'],[u'283'],[u'34.69'],"[u'1 ', u'League Cup', u' winner', u'\n1 ', u'League Cup', u' runner-up', u'\n1 ', u'Watney Cup', u' winner', u'\n1 ', u'Second Division', u' champion ']","[u'[', u'26', u']']"
-"[u'Eastham, George', u'George Eastham']","[u'\xa0', u'England']",[u'1977'],[u'1978'],[u'37'],[u'9'],[u'12'],[u'16'],[u'24.32'],[],"[u'[', u'27', u']']"
-"[u""A'Court, Alan"", u""Alan A'Court""]","[u'\xa0', u'England']",[u'1978'],[u'1978'],[u'1'],[u'0'],[u'0'],[u'1'],"[u'0', u'0.00']",[],"[u'[', u'28', u']']"
-"[u'Durban, Alan', u'Alan Durban']","[u'\xa0', u'Wales']",[u'1978'],[u'1981'],[u'143'],[u'53'],[u'48'],[u'42'],[u'37.06'],"[u'1 ', u'Second Division', u' promotion ']","[u'[', u'29', u']']"
-"[u'Barker, Richie', u'Richie Barker']","[u'\xa0', u'England']",[u'1981'],[u'1983'],[u'102'],[u'31'],[u'23'],[u'48'],[u'30.39'],[],"[u'[', u'30', u']']"
-"[u'Asprey, Bill', u'Bill Asprey']","[u'\xa0', u'England']",[u'1983'],[u'1985'],[u'64'],[u'14'],[u'15'],[u'35'],[u'21.88'],[],"[u'[', u'31', u']']"
-"[u'Lacey, Tony', u'Tony Lacey']","[u'\xa0', u'England']",[u'1985'],[u'1985'],[u'8'],[u'0'],[u'0'],[u'8'],"[u'0', u'0.00']",[],"[u'[', u'1', u']']"
-"[u'Mills, Mick', u'Mick Mills']","[u'\xa0', u'England']",[u'1985'],[u'1989'],[u'213'],[u'72'],[u'63'],[u'78'],[u'33.80'],[],"[u'[', u'32', u']']"
-"[u'Ball, Alan', u'Alan Ball']","[u'\xa0', u'England']",[u'1989'],[u'1991'],[u'62'],[u'17'],[u'21'],[u'24'],[u'27.42'],[],"[u'[', u'33', u']']"
-"[u'Paddon, Graham', u'Graham Paddon']","[u'\xa0', u'England']",[u'1991'],[u'1991'],[u'18'],[u'6'],[u'3'],[u'9'],[u'33.33'],[],"[u'[', u'1', u']']"
-"[u'Macari, Lou', u'Lou Macari']","[u'\xa0', u'Scotland']",[u'1991'],[u'1993'],[u'122'],[u'57'],[u'35'],[u'30'],[u'46.72'],"[u'1 ', u'Football League Trophy', u' winner', u'\n1 ', u'Second Division', u' champion ']","[u'[', u'34', u']']"
-"[u'Jordan, Joe', u'Joe Jordan']","[u'\xa0', u'Scotland']",[u'1993'],[u'1994'],[u'40'],[u'13'],[u'13'],[u'14'],[u'32.50'],[],"[u'[', u'35', u']']"
-"[u'Hartford, Asa', u'Asa Hartford']","[u'\xa0', u'Scotland']",[u'1994'],[u'1994'],[u'4'],[u'3'],[u'0'],[u'1'],[u'75.00'],[],"[u'[', u'1', u']']"
-"[u'Macari, Lou', u'Lou Macari']","[u'\xa0', u'Scotland']",[u'1994'],[u'1997'],[u'144'],[u'53'],[u'42'],[u'49'],[u'36.81'],[],"[u'[', u'34', u']']"
-"[u'Bates, Chic', u'Chic Bates']","[u'\xa0', u'England']",[u'1997'],[u'1998'],[u'33'],[u'11'],[u'9'],[u'13'],[u'33.33'],[],"[u'[', u'36', u']']"
-"[u'Kamara, Chris', u'Chris Kamara']","[u'\xa0', u'England']",[u'1998'],[u'1998'],[u'14'],[u'1'],[u'5'],[u'8'],"[u'0', u'7.14']",[],"[u'[', u'37', u']']"
-"[u'Durban, Alan', u'Alan Durban']","[u'\xa0', u'Wales']",[u'1998'],[u'1998'],[u'5'],[u'2'],[u'0'],[u'3'],[u'40.00'],[],"[u'[', u'29', u']']"
-"[u'Little, Brian', u'Brian Little']","[u'\xa0', u'England']",[u'1998'],[u'1999'],[u'52'],[u'23'],[u'7'],[u'22'],[u'44.23'],[],"[u'[', u'38', u']']"
-"[u'Megson, Gary', u'Gary Megson']","[u'\xa0', u'England']",[u'1999'],[u'1999'],[u'22'],[u'9'],[u'7'],[u'6'],"[u'7001409109999999999\u2660', u'40.91']",[],"[u'[', u'39', u']']"
-"[u'\xde\xf3r\xf0arson, Gu\xf0j\xf3n', u'Gu\xf0j\xf3n \xde\xf3r\xf0arson']","[u'\xa0', u'Iceland']",[u'1999'],[u'2002'],[u'154'],[u'77'],[u'39'],[u'38'],[u'50.00'],"[u'1 ', u'Football League Trophy', u' winner', u'\n1 ', u'Second Division play-offs', u' winner']","[u'[', u'40', u']']"
-"[u'Cotterill, Steve', u'Steve Cotterill']","[u'\xa0', u'England']",[u'2002'],[u'2002'],[u'13'],[u'3'],[u'5'],[u'5'],[u'23.08'],[],"[u'[', u'41', u']']"
-"[u'Kevan, Dave', u'Dave Kevan']","[u'\xa0', u'Scotland']",[u'2002'],[u'2002'],[u'4'],[u'0'],[u'0'],[u'4'],"[u'0', u'0.00']",[],"[u'[', u'42', u']']"
-"[u'Pulis, Tony', u'Tony Pulis']","[u'\xa0', u'Wales']",[u'2002'],[u'2005'],[u'131'],[u'47'],[u'32'],[u'52'],[u'35.88'],[],"[u'[', u'43', u']']"
-"[u'Boskamp, Johan', u'Johan Boskamp']","[u'\xa0', u'Netherlands']",[u'2005'],[u'2006'],[u'51'],[u'18'],[u'10'],[u'23'],[u'35.29'],[],"[u'[', u'44', u']']"
-"[u'Pulis, Tony', u'Tony Pulis']","[u'\xa0', u'Wales']",[u'2006'],[u'2013'],[u'333'],[u'122'],[u'98'],[u'113'],[u'36.64'],"[u'1 ', u'Championship', u' runner-up', u'\n1 ', u'FA Cup', u' runner-up ']","[u'[', u'43', u']']"
-"[u'Hughes, Mark', u'Mark Hughes']","[u'\xa0', u'Wales']",[u'2013'],[u'Present'],[u'116'],[u'47'],[u'29'],[u'40'],[u'40.52'],[],"[u'[', u'45', u']']"
+Name,From,To,P,W,D,L
+"[u'Slaney, Thomas', u'Thomas Slaney']",1874,1883,0,0,0,0
+"[u'Cox, Walter', u'Walter Cox']",1883,1884,1,0,0,1
+"[u'Lockett, Harry', u'Harry Lockett']",1884,1890,55,13,9,33
+"[u'Bradshaw, Joseph', u'Joseph Bradshaw']",1890,1892,33,9,5,19
+"[u'Reeves, Arthur', u'Arthur Reeves']",1892,1895,96,37,14,45
+"[u'Rowley, Bill', u'Bill Rowley']",1895,1897,66,29,4,33
+"[u'Austerberry, Horace', u'Horace Austerberry']",1897,1908,421,149,89,183
+"[u'Barker, Alfred', u'Alfred Barker']",1908,1914,256,130,35,91
+"[u'Hodge, Peter', u'Peter Hodge']",1914,1915,30,21,4,5
+"[u'Schofield, Joe', u'Joe Schofield']",1915,1919,0,0,0,0
+"[u'Shallcross, Arthur', u'Arthur Shallcross']",1919,1923,171,59,43,69
+"[u'Rutherford, Jock', u'Jock Rutherford']",1923,1923,11,2,3,6
+"[u'Mather, Tom', u'Tom Mather']",1923,1935,523,222,122,179
+"[u'McGrory, Bob', u'Bob McGrory']",1935,1952,460,170,114,176
+"[u'Taylor, Frank', u'Frank Taylor']",1952,1960,362,146,79,137
+"[u'Waddington, Tony', u'Tony Waddington']",1960,1977,764,265,216,283
+"[u'Eastham, George', u'George Eastham']",1977,1978,37,9,12,16
+"[u""A'Court, Alan"", u""Alan A'Court""]",1978,1978,1,0,0,1
+"[u'Durban, Alan', u'Alan Durban']",1978,1981,143,53,48,42
+"[u'Barker, Richie', u'Richie Barker']",1981,1983,102,31,23,48
+"[u'Asprey, Bill', u'Bill Asprey']",1983,1985,64,14,15,35
+"[u'Lacey, Tony', u'Tony Lacey']",1985,1985,8,0,0,8
+"[u'Mills, Mick', u'Mick Mills']",1985,1989,213,72,63,78
+"[u'Ball, Alan', u'Alan Ball']",1989,1991,62,17,21,24
+"[u'Paddon, Graham', u'Graham Paddon']",1991,1991,18,6,3,9
+"[u'Macari, Lou', u'Lou Macari']",1991,1993,122,57,35,30
+"[u'Jordan, Joe', u'Joe Jordan']",1993,1994,40,13,13,14
+"[u'Hartford, Asa', u'Asa Hartford']",1994,1994,4,3,0,1
+"[u'Macari, Lou', u'Lou Macari']",1994,1997,144,53,42,49
+"[u'Bates, Chic', u'Chic Bates']",1997,1998,33,11,9,13
+"[u'Kamara, Chris', u'Chris Kamara']",1998,1998,14,1,5,8
+"[u'Durban, Alan', u'Alan Durban']",1998,1998,5,2,0,3
+"[u'Little, Brian', u'Brian Little']",1998,1999,52,23,7,22
+"[u'Megson, Gary', u'Gary Megson']",1999,1999,22,9,7,6
+"[u'\xde\xf3r\xf0arson, Gu\xf0j\xf3n', u'Gu\xf0j\xf3n \xde\xf3r\xf0arson']",1999,2002,154,77,39,38
+"[u'Cotterill, Steve', u'Steve Cotterill']",2002,2002,13,3,5,5
+"[u'Kevan, Dave', u'Dave Kevan']",2002,2002,4,0,0,4
+"[u'Pulis, Tony', u'Tony Pulis']",2002,2005,131,47,32,52
+"[u'Boskamp, Johan', u'Johan Boskamp']",2005,2006,51,18,10,23
+"[u'Pulis, Tony', u'Tony Pulis']",2006,2013,333,122,98,113
+"[u'Hughes, Mark', u'Mark Hughes']",2013,Present,117,47,29,41

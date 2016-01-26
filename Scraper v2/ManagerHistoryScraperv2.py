@@ -62,7 +62,10 @@ class DataScraper:
 					if ('000' in data) or ('nb 1' in data): #keep the text that looks like English..
 						Data.remove(data)
 
-					data = data.encode('utf-8')
+					data = data.decode('ascii', 'replace') #i hate unicode.
+
+				if len(Data) == 1:
+					Data = Data[0]
 
 				managerInfo.append(Data)
 

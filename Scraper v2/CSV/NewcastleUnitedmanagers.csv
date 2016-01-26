@@ -1,42 +1,42 @@
-Name,Nationality,From,To,P,W,D,L,Win%,Honours
-[u'Selection committee'],[u'(n/a)'],[u'1892'],[u'31 December 1929'],[u'(n/a)'],[u'(n/a)'],[u'(n/a)'],[u'(n/a)'],[u'(n/a)'],"[u'Football League First Division', u' Champions: 1904/05, 1906/07, 1908/09, 1926/27', u'\n', u'Football League Second Division', u' Runners-up: 1897/98', u'\n', u'Northern League', u' Champions: 1902/03, 1903/04, 1904/05', u'\n', u'FA Cup', u' Winners: 1910, 1924', u'\n', u'FA Cup', u' Runners-up: 1905, 1906, 1908, 1911', u'\n', u'FA Community Shield', u' Winners: 1909', u'\n', u'Sheriff of London Charity Shield', u' Winners: 1907']"
-[u'Andy Cunningham'],"[u'\xa0', u'Scotland']",[u'1 January 1930'],[u'31 May 1935'],[u'251'],[u'105'],[u'45'],[u'101'],[u'41.83'],"[u'FA Cup', u' Winners: 1932', u'\n', u'FA Community Shield', u' Runners-up: 1932']"
-[u'Tom Mather'],"[u'\xa0', u'England']",[u'1 June 1935'],[u'1 September 1939'],[u'179'],[u'78'],[u'32'],[u'69'],[u'43.57'],[]
-[u'Stan Seymour'],"[u'\xa0', u'England']",[u'1 September 1939'],[u'1 June 1958'],[u'338'],[u'130'],[u'74'],[u'134'],[u'38.46'],"[u'FA Cup', u' Winners: 1951, 1952', u'\n', u'FA Community Shield', u' Runners-up: 1951, 1952']"
-[u'George Martin'],"[u'\xa0', u'England']",[u'1 May 1947'],[u'1 December 1950'],[u'155'],[u'76'],[u'40'],[u'39'],[u'49.03'],"[u'Football League Second Division', u' Runners-up: 1947/48']"
-[u'Doug Livingstone'],"[u'\xa0', u'Scotland']",[u'1 December 1954'],[u'1 January 1956'],[u'99'],[u'43'],[u'20'],[u'36'],[u'43.43'],"[u'FA Cup', u' Winners: 1955', u'\n', u'FA Community Shield', u' Runners-up: 1955']"
-[u'Charlie Mitten'],"[u'\xa0', u'England']",[u'1 June 1958'],[u'1 October 1961'],[u'145'],[u'53'],[u'28'],[u'64'],[u'36.55'],[]
-[u'Norman Smith'],"[u'\xa0', u'England']",[u'1 October 1961'],[u'1 June 1962'],[u'35'],[u'12'],[u'8'],[u'15'],[u'34.28'],[]
-[u'Joe Harvey'],"[u'\xa0', u'England']",[u'1 June 1962'],[u'1 June 1975'],[u'591'],[u'224'],[u'152'],[u'215'],[u'37.90'],"[u'Football League Second Division', u' Champions: 1964/65', u'\n', u'FA Cup', u' Runners-up: 1974', u'\n', u'Inter-Cities Fairs Cup', u' Winners: 1969', u'\n', u'Anglo-Italian Cup', u' Winners: 1973', u'\n', u'Texaco Cup', u' Winners: 1974, 1975']"
-[u'Gordon Lee'],"[u'\xa0', u'England']",[u'12 June 1975'],[u'30 January 1977'],[u'74'],[u'28'],[u'20'],[u'26'],[u'37.83'],"[u'Football League Cup', u' Runners-up: 1976']"
-[u'Richard Dinnis'],"[u'\xa0', u'England']",[u'2 February 1977'],[u'9 November 1977'],[u'40'],[u'12'],[u'10'],[u'18'],[u'30.00'],[]
-"[u'Willie McFaul', u'[', u'2', u']']","[u'\xa0', u'Northern Ireland']",[u'9 November 1977'],[u'18 November 1977'],[u'1'],[u'0'],[u'0'],[u'1'],[u'00.00'],[]
-[u'Bill McGarry'],"[u'\xa0', u'England']",[u'18 November 1977'],[u'31 August 1980'],[u'118'],[u'37'],[u'33'],[u'48'],[u'31.35'],[]
-"[u'Joe Harvey', u'[', u'2', u']']","[u'\xa0', u'England']",[u'31 August 1980'],[u'7 September 1980'],[u'3'],[u'2'],[u'1'],[u'0'],[u'66.67'],[]
-[u'Arthur Cox'],"[u'\xa0', u'England']",[u'7 September 1980'],[u'24 May 1984'],[u'169'],[u'76'],[u'42'],[u'51'],[u'44.97'],"[u'Kirin Cup', u' Winners: 1983']"
-[u'Jack Charlton'],"[u'\xa0', u'England']",[u'14 August 1984'],[u'10 August 1985'],[u'48'],[u'15'],[u'15'],[u'18'],[u'31.25'],[]
-[u'Willie McFaul'],"[u'\xa0', u'Northern Ireland']",[u'12 August 1985'],[u'10 October 1988'],[u'147'],[u'52'],[u'41'],[u'56'],[u'35.57'],[]
-"[u'Colin Suggett', u'[', u'2', u']']","[u'\xa0', u'England']",[u'10 October 1988'],[u'14 December 1988'],[u'9'],[u'2'],[u'2'],[u'5'],[u'22.22'],[]
-[u'Jim Smith'],"[u'\xa0', u'England']",[u'14 December 1988'],[u'21 March 1991'],[u'121'],[u'44'],[u'38'],[u'39'],[u'36.36'],[]
-"[u'Bobby Saxton', u'[', u'2', u']']","[u'\xa0', u'England']",[u'21 March 1991'],[u'26 March 1991'],[u'1'],[u'0'],[u'1'],[u'0'],[u'00.00'],[]
-[u'Osvaldo Ardiles'],"[u'\xa0', u'Argentina']",[u'26 March 1991'],[u'5 February 1992'],[u'47'],[u'10'],[u'18'],[u'19'],[u'21.27'],[]
-[u'Kevin Keegan'],"[u'\xa0', u'England']",[u'5 February 1992'],[u'8 January 1997'],[u'251'],[u'138'],[u'51'],[u'62'],[u'54.98'],"[u'FA Premier League', u' Runners-up: 1995/96', u'\n', u'Football League First Division', u' Champions: 1992/93', u'\n', u'FA Community Shield', u' Runners-up: 1996']"
-"[u'Terry McDermott', u'[', u'2', u']']","[u'\xa0', u'England']",[u'8 January 1997'],[u'14 January 1997'],[u'1'],[u'0'],[u'1'],[u'0'],[u'0.00'],[]
-[u'Kenny Dalglish'],"[u'\xa0', u'Scotland']",[u'14 January 1997'],[u'27 August 1998'],[u'78'],[u'30'],[u'26'],[u'22'],[u'38.46'],"[u'FA Premier League', u' Runners-up: 1996/97', u'\n', u'FA Cup', u' Runners-up: 1998']"
-[u'Ruud Gullit'],"[u'\xa0', u'Netherlands']",[u'28 August 1998'],[u'28 August 1999'],[u'52'],[u'18'],[u'14'],[u'20'],[u'34.61'],"[u'FA Cup', u' Runners-up: 1999']"
-"[u'Steve Clarke', u'[', u'2', u']']","[u'\xa0', u'Scotland']",[u'28 August 1999'],[u'2 September 1999'],[u'1'],[u'0'],[u'0'],[u'1'],[u'0.00'],[]
-[u'Sir Bobby Robson'],"[u'\xa0', u'England']",[u'2 September 1999'],[u'30 August 2004'],[u'255'],[u'119'],[u'64'],[u'72'],[u'46.66'],"[u'UEFA Intertoto Cup', u' Runners-up: 2001', u'\n', u'Premier League Asia Trophy', u' Runners-up: 2003', u'\n', u'UEFA Cup', u' Semi-Finals 2003/04']"
-"[u'John Carver', u'[', u'2', u']']","[u'\xa0', u'England']",[u'11 September 2004'],[u'13 September 2004'],[u'1'],[u'1'],[u'0'],[u'0'],[u'100.00'],[]
-[u'Graeme Souness'],"[u'\xa0', u'Scotland']",[u'13 September 2004'],[u'2 February 2006'],[u'87'],[u'39'],[u'19'],[u'29'],[u'44.82'],[]
-[u'Glenn Roeder'],"[u'\xa0', u'England']",[u'2 February 2006'],[u'6 May 2007'],[u'72'],[u'33'],[u'15'],[u'24'],[u'45.83'],"[u'UEFA Intertoto Cup', u' Winners: 2006']"
-"[u'Nigel Pearson', u'[', u'2', u']']","[u'\xa0', u'England']",[u'6 May 2007'],[u'15 May 2007'],[u'1'],[u'0'],[u'1'],[u'0'],[u'0.00'],[]
-[u'Sam Allardyce'],"[u'\xa0', u'England']",[u'15 May 2007'],[u'9 January 2008'],[u'24'],[u'8'],[u'6'],[u'10'],[u'33.33'],[]
-"[u'Nigel Pearson', u'[', u'2', u']']","[u'\xa0', u'England']",[u'9 January 2008'],[u'16 January 2008'],[u'2'],[u'1'],[u'0'],[u'1'],[u'50.00'],[]
-[u'Kevin Keegan'],"[u'\xa0', u'England']",[u'16 January 2008'],[u'4 September 2008'],[u'21'],[u'6'],[u'6'],[u'9'],[u'28.57'],[]
-"[u'Chris Hughton', u'[', u'2', u']']","[u'\xa0', u'Ireland']",[u'8 September 2008'],[u'28 September 2008'],[u'3'],[u'0'],[u'0'],[u'3'],[u'0.00'],[]
-[u'Joe Kinnear'],"[u'\xa0', u'Ireland']",[u'29 September 2008'],"[u'1 April 2009', u'[', u'3', u']']",[u'18'],[u'4'],[u'8'],[u'6'],[u'22.22'],[]
-[u'Alan Shearer'],"[u'\xa0', u'England']",[u'1 April 2009'],"[u'24 May 2009', u'[', u'4', u']']",[u'8'],[u'1'],[u'2'],[u'5'],[u'12.50'],[]
-"[u'Chris Hughton', u'[', u'5', u']']","[u'\xa0', u'Ireland']",[u'24 May 2009'],[u'6 December 2010'],[u'64'],[u'38'],[u'11'],[u'15'],[u'59.38'],"[u'Football League Championship', u' Winners: 2009/2010']"
-[u'Alan Pardew'],"[u'\xa0', u'England']",[u'9 December 2010'],[u'2 January 2015'],[u'185'],[u'71'],[u'41'],[u'73'],[u'38.38'],"[u'Guadiana Trophy', u' Winners: 2012']"
-[u'John Carver'],"[u'\xa0', u'England']",[u'26 January 2015'],"[u'9 June 2015', u'[', u'6', u']']",[u'20'],[u'3'],[u'4'],[u'13'],[u'15.00'],[]
-[u'Steve McClaren'],"[u'\xa0', u'England']","[u'10 June 2015', u'[', u'7', u']']",[u'Present'],[u'20'],[u'5'],[u'5'],[u'10'],[u'25.00'],[]
+Name,From,To,P,W,D,L
+Selection committee,1892,31 December 1929,(n/a),(n/a),(n/a),(n/a)
+Andy Cunningham,1 January 1930,31 May 1935,251,105,45,101
+Tom Mather,1 June 1935,1 September 1939,179,78,32,69
+Stan Seymour,1 September 1939,1 June 1958,338,130,74,134
+George Martin,1 May 1947,1 December 1950,155,76,40,39
+Doug Livingstone,1 December 1954,1 January 1956,99,43,20,36
+Charlie Mitten,1 June 1958,1 October 1961,145,53,28,64
+Norman Smith,1 October 1961,1 June 1962,35,12,8,15
+Joe Harvey,1 June 1962,1 June 1975,591,224,152,215
+Gordon Lee,12 June 1975,30 January 1977,74,28,20,26
+Richard Dinnis,2 February 1977,9 November 1977,40,12,10,18
+"[u'Willie McFaul', u'[', u'2', u']']",9 November 1977,18 November 1977,1,0,0,1
+Bill McGarry,18 November 1977,31 August 1980,118,37,33,48
+"[u'Joe Harvey', u'[', u'2', u']']",31 August 1980,7 September 1980,3,2,1,0
+Arthur Cox,7 September 1980,24 May 1984,169,76,42,51
+Jack Charlton,14 August 1984,10 August 1985,48,15,15,18
+Willie McFaul,12 August 1985,10 October 1988,147,52,41,56
+"[u'Colin Suggett', u'[', u'2', u']']",10 October 1988,14 December 1988,9,2,2,5
+Jim Smith,14 December 1988,21 March 1991,121,44,38,39
+"[u'Bobby Saxton', u'[', u'2', u']']",21 March 1991,26 March 1991,1,0,1,0
+Osvaldo Ardiles,26 March 1991,5 February 1992,47,10,18,19
+Kevin Keegan,5 February 1992,8 January 1997,251,138,51,62
+"[u'Terry McDermott', u'[', u'2', u']']",8 January 1997,14 January 1997,1,0,1,0
+Kenny Dalglish,14 January 1997,27 August 1998,78,30,26,22
+Ruud Gullit,28 August 1998,28 August 1999,52,18,14,20
+"[u'Steve Clarke', u'[', u'2', u']']",28 August 1999,2 September 1999,1,0,0,1
+Sir Bobby Robson,2 September 1999,30 August 2004,255,119,64,72
+"[u'John Carver', u'[', u'2', u']']",11 September 2004,13 September 2004,1,1,0,0
+Graeme Souness,13 September 2004,2 February 2006,87,39,19,29
+Glenn Roeder,2 February 2006,6 May 2007,72,33,15,24
+"[u'Nigel Pearson', u'[', u'2', u']']",6 May 2007,15 May 2007,1,0,1,0
+Sam Allardyce,15 May 2007,9 January 2008,24,8,6,10
+"[u'Nigel Pearson', u'[', u'2', u']']",9 January 2008,16 January 2008,2,1,0,1
+Kevin Keegan,16 January 2008,4 September 2008,21,6,6,9
+"[u'Chris Hughton', u'[', u'2', u']']",8 September 2008,28 September 2008,3,0,0,3
+Joe Kinnear,29 September 2008,"[u'1 April 2009', u'[', u'3', u']']",18,4,8,6
+Alan Shearer,1 April 2009,"[u'24 May 2009', u'[', u'4', u']']",8,1,2,5
+"[u'Chris Hughton', u'[', u'5', u']']",24 May 2009,6 December 2010,64,38,11,15
+Alan Pardew,9 December 2010,2 January 2015,185,71,41,73
+John Carver,26 January 2015,"[u'9 June 2015', u'[', u'6', u']']",20,3,4,13
+Steve McClaren,"[u'10 June 2015', u'[', u'7', u']']",Present,20,5,5,10

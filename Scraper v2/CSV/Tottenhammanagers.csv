@@ -1,21 +1,21 @@
-None,Manager,Years,Played,Won,Win %
-[u'1'],"[u' ', u'Frank Brettell']",[u'1898\u20131899'],[u'63'],[u'37'],[u'58.73']
-[u'2'],"[u' ', u'Arthur Turner']",[u'1942\u20131946'],[u'49'],[u'27'],[u'55.10']
-[u'3'],"[u' ', u'Andr\xe9 Villas-Boas']",[u'2012\u20132013'],[u'80'],[u'44'],[u'55.00']
-[u'4'],"[u' ', u'John Cameron']",[u'1899\u20131907'],[u'570'],[u'296'],[u'51.93']
-[u'5'],"[u' ', u'Mauricio Pochettino']",[u'2014\u2013present'],[u'83'],[u'42'],[u'50.6']
-[u'6'],"[u' ', u'David Pleat ', u'1']",[u'1986\u20131987'],[u'119'],[u'60'],[u'50.42']
-[u'7'],"[u' ', u'Tim Sherwood']",[u'2013\u20132014'],[u'28'],[u'14'],[u'50.00']
-[u'8'],"[u' ', u'Harry Redknapp']",[u'2008\u20132012'],[u'198'],[u'98'],[u'49.49']
-[u'9'],"[u' ', u'Bill Nicholson']",[u'1958\u20131974'],[u'832'],[u'408'],[u'49.03']
-[u'10'],"[u' ', u'Arthur Rowe']",[u'1949\u20131955'],[u'283'],[u'135'],[u'47.70']
-[u'11'],"[u' ', u'Fred Kirkham']",[u'1907\u20131908'],[u'61'],[u'29'],[u'47.54']
-[u'12'],"[u' ', u'Jimmy Anderson ', u'2']",[u'1955\u20131958'],[u'161'],[u'75'],[u'46.58']
-[u'13'],"[u' ', u'Percy Smith']",[u'1929\u20131935'],[u'253'],[u'109'],[u'46.38']
-[u'14'],"[u' ', u'Doug Livermore', u'\n', u' ', u'Ray Clemence']",[u'1992\u20131993'],[u'51'],[u'23'],[u'45.09']
-[u'15'],"[u' ', u'Martin Jol ', u'3']",[u'2004\u20132007'],[u'149'],[u'67'],[u'44.67']
-[u'16'],"[u' ', u'Peter Shreeves']",[u'1984\u20131986 & 1991\u20131992'],[u'177'],[u'79'],[u'44.63']
-[u'17'],"[u' ', u'Jack Tresadern']",[u'1935\u20131938'],[u'146'],[u'65'],[u'44.52']
-[u'18'],"[u' ', u'Peter McWilliam']",[u'1913\u20131927 & 1938\u20131942'],[u'750'],[u'331'],[u'44.13']
-[u'19'],"[u"" 'The Directors'""]",[u'1908\u20131913'],[u'231'],[u'99'],[u'42.86']
-[u'20'],"[u' ', u'Joe Hulme']",[u'1946\u20131949'],[u'150'],[u'64'],[u'42.67']
+Manager,Played,Won
+"[u' ', u'Frank Brettell']",63,37
+"[u' ', u'Arthur Turner']",49,27
+"[u' ', u'Andr\xe9 Villas-Boas']",80,44
+"[u' ', u'John Cameron']",570,296
+"[u' ', u'Mauricio Pochettino']",89,45
+"[u' ', u'David Pleat ', u'1']",119,60
+"[u' ', u'Tim Sherwood']",28,14
+"[u' ', u'Harry Redknapp']",198,98
+"[u' ', u'Bill Nicholson']",832,408
+"[u' ', u'Arthur Rowe']",283,135
+"[u' ', u'Fred Kirkham']",61,29
+"[u' ', u'Jimmy Anderson ', u'2']",161,75
+"[u' ', u'Percy Smith']",253,109
+"[u' ', u'Doug Livermore', u'\n', u' ', u'Ray Clemence']",51,23
+"[u' ', u'Martin Jol ', u'3']",149,67
+"[u' ', u'Peter Shreeves']",177,79
+"[u' ', u'Jack Tresadern']",146,65
+"[u' ', u'Peter McWilliam']",750,331
+ 'The Directors',231,99
+"[u' ', u'Joe Hulme']",150,64
