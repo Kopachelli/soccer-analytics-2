@@ -1,0 +1,7 @@
+Soccer Analytics Research: To-Do
+Professor Eric Schwartz
+Naman Gupta
+
+1. Add Data from ALL clubs to have ever competed in PL.
+2. Consolidate Data into Table, Team Name attached to rows; Uniform Formatting
+3. Split Data into Modern-Era, not-M.E.
