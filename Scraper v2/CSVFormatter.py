@@ -11,7 +11,7 @@ import pandas as pd
 
 
 #Iterate through teams
-for csvFile in glob.glob('CSV/*csv'): #within the path of this folder, the csvs are stored in the /CSV folder.
+for csvFile in glob.glob('CSV2/*csv'): #within the path of this folder, the csvs are stored in the /CSV folder.
 	#iterate through each CSV file (mirroring each club in dataset)
 	df = pd.read_csv(csvFile)
 

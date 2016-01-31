@@ -1,0 +1,45 @@
+Name,From,To,P,W,D,L,F,A
+"[u'Ray, Dick', u'Dick Ray']",17 October 1919,1 February 1920,17,4,5,8,25,31
+"[u'Fairclough, Arthur', u'Arthur Fairclough']",1 February 1920,1 May 1927,326,118,81,127,427,425
+"[u'Ray, Dick', u'Dick Ray']",1 July 1927,1 March 1935,342,143,72,127,622,552
+"[u'Hampson, Billy', u'Billy Hampson']",1 July 1935,1 May 1947,231,74,51,106,334,418
+"[u'Edwards, Willis', u'Willis Edwards']",1 May 1947,30 April 1948,47,13,8,26,60,87
+"[u'Buckley, Major Frank', u'Major Frank Buckley']",1 May 1948,30 April 1953,224,87,63,74,324,306
+"[u'Carter, Raich', u'Raich Carter']",1 May 1953,1 June 1958,217,90,51,76,370,336
+"[u'Edwards, Willis', u'Willis Edwards']",1 June 1958,1 December 1958,10,5,1,4,17,16
+"[u'Lambton, Bill', u'Bill Lambton']",1 December 1958,30 April 1959,30,10,7,13,40,57
+"[u'Taylor, Jack', u'Jack Taylor']",1 May 1959,1 March 1961,81,27,17,37,136,169
+"[u'Revie, Don', u'Don Revie']",1 March 1961,4 July 1974,740,394,197,149,"1,262",703
+"[u'Clough, Brian', u'Brian Clough']",30 July 1974,12 September 1974,7,1,3,3,6,10
+"[u'Armfield, Jimmy', u'Jimmy Armfield']",4 October 1974,3 July 1978,193,87,47,59,277,222
+"[u'Stein, Jock', u'Jock Stein']",21 August 1978,4 October 1978,10,4,3,3,13,8
+"[u'Adamson, Jimmy', u'Jimmy Adamson']",25 October 1978,1 October 1980,98,35,29,34,138,136
+"[u'Merrington, David', u'David Merrington']",1 October 1980,1 October 1980,1,0,1,0,1,1
+"[u'Clarke, Allan', u'Allan Clarke']",1 October 1980,30 June 1982,84,27,22,35,77,104
+"[u'Gray, Eddie', u'Eddie Gray']",4 July 1982,11 October 1985,157,57,55,45,214,193
+"[u'Gunby, Peter', u'Peter Gunby']",11 October 1985,11 October 1985,1,0,1,0,1,1
+"[u'Bremner, Billy', u'Billy Bremner']",11 October 1985,28 September 1988,143,58,31,54,192,186
+"[u'Hunter, Norman', u'Norman Hunter']",28 September 1988,10 October 1988,3,0,0,3,2,5
+"[u'Wilkinson, Howard', u'Howard Wilkinson']",10 October 1988,10 September 1996,411,178,117,116,622,488
+"[u'Graham, George', u'George Graham']",10 September 1996,1 October 1998,95,37,27,31,118,99
+"[u""O'Leary, David"", u""David O'Leary""]",1 October 1998,27 June 2002,203,101,47,55,320,217
+"[u'Venables, Terry', u'Terry Venables']",8 July 2002,21 March 2003,42,16,7,19,53,52
+"[u'Reid, Peter', u'Peter Reid']",21 March 2003,10 November 2003,22,6,4,12,36,51
+"[u'Gray, Eddie', u'Eddie Gray']",10 November 2003,31 May 2004,26,6,7,13,30,51
+"[u'Blackwell, Kevin', u'Kevin Blackwell']",1 June 2004,20 September 2006,115,44,37,34,128,117
+"[u'Carver, John', u'John Carver']",21 September 2006,23 October 2006,5,1,0,4,7,17
+"[u'Geddis, David', u'David Geddis']",24 October 2006,24 October 2006,1,0,0,1,1,3
+"[u'Wise, Dennis', u'Dennis Wise']",24 October 2006,28 January 2008,68,30,12,26,88,78
+"[u'Williams, Gwyn', u'Gwyn Williams']",29 January 2008,29 January 2008,1,0,0,1,0,1
+"[u'McAllister, Gary', u'Gary McAllister']",30 January 2008,21 December 2008,50,25,8,17,84,61
+"[u'Grayson, Simon', u'Simon Grayson']",23 December 2008,1 February 2012,169,84,40,45,259,186
+"[u'Redfearn, Neil', u'Neil Redfearn']",1 February 2012,18 February 2012,4,2,0,2,8,6
+"[u'Warnock, Neil', u'Neil Warnock']",18 February 2012,1 April 2013,63,23,15,25,81,92
+"[u'Redfearn, Neil', u'Neil Redfearn']",1 April 2013,12 April 2013,1,0,0,1,1,2
+"[u'McDermott, Brian', u'Brian McDermott']",12 April 2013,30 June 2014,55,21,9,25,63?,67?
+"[u'Hockaday, Dave', u'Dave Hockaday']",1 July 2014,28 August 2014,6,2,0,4,5,11
+"[u'Redfearn, Neil', u'Neil Redfearn']",28 August 2014,23 September 2014,4,3,1,0,8,2
+"[u'Milani\u010d, Darko', u'Darko Milani\u010d']",23 September 2014,25 October 2014,6,0,3,3,4,8
+"[u'Redfearn, Neil', u'Neil Redfearn']",1 November 2014,30 June 2015,33,11,7,15,36,44
+"[u'R\xf6sler, Uwe', u'Uwe R\xf6sler']",1 July 2015,18 October 2015,12,2,6,4,11,16
+"[u'Evans, Steve', u'Steve Evans']",19 October 2015,Present,15,6,6,3,18,13
