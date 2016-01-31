@@ -1,58 +1,58 @@
-Name,From,To,Matches,Won,Drawn,Lost
-"[u'(01) ', u""John 'Jack' Robson""]",1905,1907,77,35,18,24
-"[u'(02) ', u'Edmund Goodman']",1907,1925,613,242,166,205
-"[u'(03) ', u'Alex Maley']",1925,1927,83,36,16,31
-"[u'(04) ', u'Fred Mavin']",1927,1930,132,63,33,36
-"[u'(05) ', u'Jack Tresadern']",1930,1935,213,98,44,71
-"[u'(06) ', u'Tom Bromilow']",1935,1936,44,23,5,16
-"[u'(07) ', u'R. S. Moyes']",1936,1936,23,6,6,11
-"[u'(08) ', u'Tom Bromilow']",1937,1939,118,48,35,35
-"[u'(09) ', u'George Irwin']",1939,1947,45,15,11,19
-"[u'(10) ', u'Jack Butler']",1947,1949,88,23,24,41
-"[u'(11) ', u'Ronnie Rooke']",1949,1950,62,19,15,28
-"[u'(12) ', u'Fred Dawes', u'/', u'Charlie Slade']",1950,1951,40,8,10,22
-"[u'(13) ', u'Laurie Scott']",1951,1954,145,43,41,61
-"[u'(14) ', u'Cyril Spiers']",1954,1958,181,52,53,76
-"[u'(15) ', u'George Smith']",1958,1960,100,42,27,31
-"[u'(16) ', u'Arthur Rowe']",1960,1962,132,52,32,48
-"[u'(17) ', u'Dick Graham']",1962,1966,150,68,41,41
-"[u'(18) ', u'Arthur Rowe', u'+']",1966,1966,7,2,2,3
-"[u'(19) ', u'Bert Head']",1966,1973,328,101,96,131
-"[u'(20) ', u'Malcolm Allison']",1973,1976,146,52,45,49
-"[u'(21) ', u'Terry Venables']",1976,1980,189,69,68,52
-"[u'(22) ', u'Ernie Walley', u'+']",1980,1980,6,1,1,4
-"[u'(23) ', u'Malcolm Allison']",1980,1981,9,1,3,5
-"[u'(24) ', u'Dario Gradi']",1981,1981,30,7,3,20
-"[u'(25) ', u'Steve Kember']",1981,1982,30,8,8,14
-"[u'(26) ', u'Alan Mullery']",1982,1984,98,31,27,40
-"[u'(27) ', u'Steve Coppell']",1984,1993,442,179,113,150
-"[u'(28) ', u'Alan Smith']",1993,1995,108,48,25,35
-"[u'(29) ', u'Steve Coppell']",1995,1996,32,9,14,9
-"[u'(30) ', u'Dave Bassett']",1996,1997,60,29,15,16
-"[u'(31) ', u'Steve Coppell']",1997,1998,51,16,13,22
-"[u'(32) ', u'Attilio Lombardo', u'*']",1998,1998,7,2,0,5
-"[u'(33) ', u'Ron Noades', u'/', u'Ray Lewington', u'+']",1998,1998,2,0,1,1
-"[u'(34) ', u'Terry Venables']",1998,1999,31,11,8,12
-"[u'(35) ', u'Steve Coppell']",1999,[],40,17,6,17
-"[u'(36) ', u'Alan Smith']",[],2001,55,14,18,23
-"[u'(37) ', u'Steve Kember', u'+']",2001,2001,2,2,0,0
-"[u'(38) ', u'Steve Bruce']",2001,2001,18,11,2,5
-"[u'(39) ', u'Steve Kember', u'/', u'Terry Bullivant', u'+']",2001,2001,4,1,0,3
-"[u'(40) ', u'Trevor Francis']",2001,2003,78,28,22,28
-"[u'(41) ', u'Steve Kember']",2003,2003,23,7,6,10
-"[u'(42) ', u'Kit Symons', u'+']",2003,2003,9,3,3,3
-"[u'(43) ', u'Iain Dowie']",2003,2006,123,50,29,44
-"[u'(44) ', u'Peter Taylor']",2006,2007,60,21,16,23
-"[u'(45) ', u'Neil Warnock']",2007,2010,129,47,39,43
-"[u'(46) ', u'Paul Hart']",2010,2010,14,3,6,5
-"[u'(47) ', u'George Burley']",2010,2011,25,7,5,13
-"[u'(48) ', u'Dougie Freedman']",2011,2012,90,32,27,31
-"[u'(49) ', u'Lennie Lawrence', u'/', u'\n', u'Curtis Fleming', u'+']",2012,2012,2,1,1,0
-"[u'(50) ', u'Curtis Fleming', u'+']",2012,2012,1,1,0,0
-"[u'(51) ', u'Ian Holloway']",2012,2013,46,14,14,18
-"[u'(52) ', u'Keith Millen', u'+']",2013,2013,4,1,1,2
-"[u'(53) ', u'Tony Pulis']",2013,2014,28,12,5,11
-"[u'(54) ', u'Keith Millen', u'+']",2014,2014,1,0,0,1
-"[u'(55) ', u'Neil Warnock']",2014,2014,17,3,6,8
-"[u'(56) ', u'Keith Millen', u'+']",2014,2015,2,0,2,0
-"[u'(57) ', u'Alan Pardew']",2015,Present,48,24,5,19
+Team,Name,From,To,Matches,Won,Drawn,Lost
+CrystalPalace,"[u'(01) ', u""John 'Jack' Robson""]",1905,1907,77,35,18,24
+CrystalPalace,"[u'(02) ', u'Edmund Goodman']",1907,1925,613,242,166,205
+CrystalPalace,"[u'(03) ', u'Alex Maley']",1925,1927,83,36,16,31
+CrystalPalace,"[u'(04) ', u'Fred Mavin']",1927,1930,132,63,33,36
+CrystalPalace,"[u'(05) ', u'Jack Tresadern']",1930,1935,213,98,44,71
+CrystalPalace,"[u'(06) ', u'Tom Bromilow']",1935,1936,44,23,5,16
+CrystalPalace,"[u'(07) ', u'R. S. Moyes']",1936,1936,23,6,6,11
+CrystalPalace,"[u'(08) ', u'Tom Bromilow']",1937,1939,118,48,35,35
+CrystalPalace,"[u'(09) ', u'George Irwin']",1939,1947,45,15,11,19
+CrystalPalace,"[u'(10) ', u'Jack Butler']",1947,1949,88,23,24,41
+CrystalPalace,"[u'(11) ', u'Ronnie Rooke']",1949,1950,62,19,15,28
+CrystalPalace,"[u'(12) ', u'Fred Dawes', u'/', u'Charlie Slade']",1950,1951,40,8,10,22
+CrystalPalace,"[u'(13) ', u'Laurie Scott']",1951,1954,145,43,41,61
+CrystalPalace,"[u'(14) ', u'Cyril Spiers']",1954,1958,181,52,53,76
+CrystalPalace,"[u'(15) ', u'George Smith']",1958,1960,100,42,27,31
+CrystalPalace,"[u'(16) ', u'Arthur Rowe']",1960,1962,132,52,32,48
+CrystalPalace,"[u'(17) ', u'Dick Graham']",1962,1966,150,68,41,41
+CrystalPalace,"[u'(18) ', u'Arthur Rowe', u'+']",1966,1966,7,2,2,3
+CrystalPalace,"[u'(19) ', u'Bert Head']",1966,1973,328,101,96,131
+CrystalPalace,"[u'(20) ', u'Malcolm Allison']",1973,1976,146,52,45,49
+CrystalPalace,"[u'(21) ', u'Terry Venables']",1976,1980,189,69,68,52
+CrystalPalace,"[u'(22) ', u'Ernie Walley', u'+']",1980,1980,6,1,1,4
+CrystalPalace,"[u'(23) ', u'Malcolm Allison']",1980,1981,9,1,3,5
+CrystalPalace,"[u'(24) ', u'Dario Gradi']",1981,1981,30,7,3,20
+CrystalPalace,"[u'(25) ', u'Steve Kember']",1981,1982,30,8,8,14
+CrystalPalace,"[u'(26) ', u'Alan Mullery']",1982,1984,98,31,27,40
+CrystalPalace,"[u'(27) ', u'Steve Coppell']",1984,1993,442,179,113,150
+CrystalPalace,"[u'(28) ', u'Alan Smith']",1993,1995,108,48,25,35
+CrystalPalace,"[u'(29) ', u'Steve Coppell']",1995,1996,32,9,14,9
+CrystalPalace,"[u'(30) ', u'Dave Bassett']",1996,1997,60,29,15,16
+CrystalPalace,"[u'(31) ', u'Steve Coppell']",1997,1998,51,16,13,22
+CrystalPalace,"[u'(32) ', u'Attilio Lombardo', u'*']",1998,1998,7,2,0,5
+CrystalPalace,"[u'(33) ', u'Ron Noades', u'/', u'Ray Lewington', u'+']",1998,1998,2,0,1,1
+CrystalPalace,"[u'(34) ', u'Terry Venables']",1998,1999,31,11,8,12
+CrystalPalace,"[u'(35) ', u'Steve Coppell']",1999,[],40,17,6,17
+CrystalPalace,"[u'(36) ', u'Alan Smith']",[],2001,55,14,18,23
+CrystalPalace,"[u'(37) ', u'Steve Kember', u'+']",2001,2001,2,2,0,0
+CrystalPalace,"[u'(38) ', u'Steve Bruce']",2001,2001,18,11,2,5
+CrystalPalace,"[u'(39) ', u'Steve Kember', u'/', u'Terry Bullivant', u'+']",2001,2001,4,1,0,3
+CrystalPalace,"[u'(40) ', u'Trevor Francis']",2001,2003,78,28,22,28
+CrystalPalace,"[u'(41) ', u'Steve Kember']",2003,2003,23,7,6,10
+CrystalPalace,"[u'(42) ', u'Kit Symons', u'+']",2003,2003,9,3,3,3
+CrystalPalace,"[u'(43) ', u'Iain Dowie']",2003,2006,123,50,29,44
+CrystalPalace,"[u'(44) ', u'Peter Taylor']",2006,2007,60,21,16,23
+CrystalPalace,"[u'(45) ', u'Neil Warnock']",2007,2010,129,47,39,43
+CrystalPalace,"[u'(46) ', u'Paul Hart']",2010,2010,14,3,6,5
+CrystalPalace,"[u'(47) ', u'George Burley']",2010,2011,25,7,5,13
+CrystalPalace,"[u'(48) ', u'Dougie Freedman']",2011,2012,90,32,27,31
+CrystalPalace,"[u'(49) ', u'Lennie Lawrence', u'/', u'\n', u'Curtis Fleming', u'+']",2012,2012,2,1,1,0
+CrystalPalace,"[u'(50) ', u'Curtis Fleming', u'+']",2012,2012,1,1,0,0
+CrystalPalace,"[u'(51) ', u'Ian Holloway']",2012,2013,46,14,14,18
+CrystalPalace,"[u'(52) ', u'Keith Millen', u'+']",2013,2013,4,1,1,2
+CrystalPalace,"[u'(53) ', u'Tony Pulis']",2013,2014,28,12,5,11
+CrystalPalace,"[u'(54) ', u'Keith Millen', u'+']",2014,2014,1,0,0,1
+CrystalPalace,"[u'(55) ', u'Neil Warnock']",2014,2014,17,3,6,8
+CrystalPalace,"[u'(56) ', u'Keith Millen', u'+']",2014,2015,2,0,2,0
+CrystalPalace,"[u'(57) ', u'Alan Pardew']",2015,Present,48,24,5,19

@@ -1,41 +1,41 @@
-Name,From,To,P,W,D,L
-"Goodall, John","[u'1903-05 !', u'May 1903']","[u'1910-05 !', u'May 1910']",246,90,63,93
-"Kent, Harry","[u'1910-05 !', u'May 1910']","[u'1926-05 !', u'May 1926']",484,187,121,176
-"Pagnam, Fred","[u'1926-05 !', u'May 1926']","[u'1929-05 !', u'May 1929']",126,45,28,53
-"McBain, Neil","[u'1929-05 !', u'May 1929']","[u'1937-08 !', u'August 1937']",336,137,71,128
-"Findlay, Bill","[u'1937-08 !', u'August 1937']","[u'1947-02 !', u'February 1947']",114,50,25,39
-"Bray, Jack !","[u'1947-03 !', u'March 1947']","[u'1948-01 !', u'January 1948']",35,11,7,17
-"Hapgood, Eddie","[u'1948-02 !', u'February 1948']","[u'1950-03 !', u'March 1950']",88,29,27,32
-"Gray, Ron","[u'1950-03 !', u'March 1950']","[u'1951-08 !', u'August 1951']",56,13,15,28
-"Green, Haydn","[u'1951-08 !', u'August 1951']","[u'1952-10 !', u'October 1952']",54,16,11,27
-"Goulden, Len","[u'1952-11 !', u'November 1952']","[u'1955-10 !', u'October 1955']",136,52,39,45
-"Paton, Johnny","[u'1955-10 !', u'October 1955']","[u'1956-02 !', u'February 1956']",15,2,6,7
-"Goulden, Len","[u'1956-02 !', u'February 1956']","[u'1956-07 !', u'July 1956']",16,6,3,7
-"McBain, Neil","[u'1956-08 !', u'August 1956']","[u'1959-02 !', u'February 1959']",122,42,33,47
-"Burgess, Ron","[u'1959-02 !', u'February 1959']","[u'1963-05 !', u'May 1963']",200,80,45,75
-"McGarry, Bill","[u'1963-07 !', u'July 1963']","[u'1964-10 !', u'October 1964']",57,26,17,14
-"Furphy, Ken","[u'1964-11 !', u'November 1964']","[u'1971-07 !', u'July 1971']",295,115,79,101
-"Kirby, George","[u'1971-08 !', u'August 1971']","[u'1973-05 !', u'May 1973']",88,17,26,45
-"Keen, Mike","[u'1973-06 !', u'June 1973']","[u'1977-04 !', u'April 1977']",178,67,48,63
-"Taylor, Graham","[u'1977-06 !', u'June 1977']","[u'1987-05 !', u'May 1987']",428,191,105,132
-"Bassett, Dave","[u'1987-05 !', u'May 1987']","[u'1988-01 !', u'January 1988']",23,4,6,13
-"Harrison, Steve","[u'1988-01 !', u'January 1988']","[u'1990-03 !', u'March 1990']",98,36,27,35
-"Lee, Colin","[u'1990-03 !', u'March 1990']","[u'1990-11 !', u'November 1990']",28,5,9,14
-"Perryman, Steve","[u'1990-11 !', u'November 1990']","[u'1993-07 !', u'July 1993']",121,42,35,44
-"Roeder, Glenn","[u'1993-07 !', u'July 1993']","[u'1996-02 !', u'February 1996']",120,39,32,49
-"Taylor, Graham","[u'1996-02 !', u'February 1996']","[u'1996-06 !', u'June 1996']",18,5,8,5
-"Jackett, Kenny","[u'1996-06 !', u'June 1996']","[u'1997-06 !', u'June 1997']",46,16,19,11
-"Taylor, Graham","[u'1997-06 !', u'June 1997']","[u'2001-05 !', u'May 2001']",176,71,45,60
-"Vialli, Gianluca","[u'2001-05 !', u'May 2001']","[u'2002-06 !', u'June 2002']",46,16,11,19
-"Lewington, Ray","[u'2002-06 !', u'June 2002']","[u'2005-03 !', u'March 2005']",131,42,36,53
-"Boothroyd, Aidy","[u'2005-03 !', u'March 2005']","[u'2008-10 !', u'November 2008']",152,51,48,53
-"Mackay, Malky","[u'2008-10 !', u'November 2008']","[u'2008-11 !', u'November 2008']",5,2,1,2
-"Rodgers, Brendan","[u'2008-11 !', u'November 2008']","[u'2009-06 !', u'June 2009']",27,11,6,10
-"Mackay, Malky","[u'2009-06 !', u'June 2009']","[u'2010-11 !', u'June 2011']",92,30,25,37
-"Dyche, Sean","[u'2011- !', u'June 2011']","[u'9999 !', u'July 2012']",46,16,16,14
-"Zola, Gianfranco","[u'2012- !', u'July 2012']","[u'2013 !', u' ', u'December 2013']",66,29,15,22
-"Sannino, Giuseppe","[u'2013- !', u'December 2013']",Aug-14,31,13,8,10
-"GarcÃ_a Junyent, Ã“scar","[u'2014-02 !', u'September 2014']","[u'2014-29 !', u'September 2014']",4,1,2,1
-"McKinlay, Billy","[u'2014-29 !', u'September 2014']","[u'2014-07 !', u'October 2014']",2,1,1,0
-"JokanoviÄ‡, SlaviÅ¡a","[u'2014-07 !', u'October 2014']","[u'2015-06 !', u'June 2015']",35,21,4,10
-"Flores, Quique","[u'2015-06 !', u'June 2015']",present,21,8,5,8
+Team,Name,From,To,P,W,D,L
+Watford,"Goodall, John","[u'1903-05 !', u'May 1903']","[u'1910-05 !', u'May 1910']",246,90,63,93
+Watford,"Kent, Harry","[u'1910-05 !', u'May 1910']","[u'1926-05 !', u'May 1926']",484,187,121,176
+Watford,"Pagnam, Fred","[u'1926-05 !', u'May 1926']","[u'1929-05 !', u'May 1929']",126,45,28,53
+Watford,"McBain, Neil","[u'1929-05 !', u'May 1929']","[u'1937-08 !', u'August 1937']",336,137,71,128
+Watford,"Findlay, Bill","[u'1937-08 !', u'August 1937']","[u'1947-02 !', u'February 1947']",114,50,25,39
+Watford,"Bray, Jack !","[u'1947-03 !', u'March 1947']","[u'1948-01 !', u'January 1948']",35,11,7,17
+Watford,"Hapgood, Eddie","[u'1948-02 !', u'February 1948']","[u'1950-03 !', u'March 1950']",88,29,27,32
+Watford,"Gray, Ron","[u'1950-03 !', u'March 1950']","[u'1951-08 !', u'August 1951']",56,13,15,28
+Watford,"Green, Haydn","[u'1951-08 !', u'August 1951']","[u'1952-10 !', u'October 1952']",54,16,11,27
+Watford,"Goulden, Len","[u'1952-11 !', u'November 1952']","[u'1955-10 !', u'October 1955']",136,52,39,45
+Watford,"Paton, Johnny","[u'1955-10 !', u'October 1955']","[u'1956-02 !', u'February 1956']",15,2,6,7
+Watford,"Goulden, Len","[u'1956-02 !', u'February 1956']","[u'1956-07 !', u'July 1956']",16,6,3,7
+Watford,"McBain, Neil","[u'1956-08 !', u'August 1956']","[u'1959-02 !', u'February 1959']",122,42,33,47
+Watford,"Burgess, Ron","[u'1959-02 !', u'February 1959']","[u'1963-05 !', u'May 1963']",200,80,45,75
+Watford,"McGarry, Bill","[u'1963-07 !', u'July 1963']","[u'1964-10 !', u'October 1964']",57,26,17,14
+Watford,"Furphy, Ken","[u'1964-11 !', u'November 1964']","[u'1971-07 !', u'July 1971']",295,115,79,101
+Watford,"Kirby, George","[u'1971-08 !', u'August 1971']","[u'1973-05 !', u'May 1973']",88,17,26,45
+Watford,"Keen, Mike","[u'1973-06 !', u'June 1973']","[u'1977-04 !', u'April 1977']",178,67,48,63
+Watford,"Taylor, Graham","[u'1977-06 !', u'June 1977']","[u'1987-05 !', u'May 1987']",428,191,105,132
+Watford,"Bassett, Dave","[u'1987-05 !', u'May 1987']","[u'1988-01 !', u'January 1988']",23,4,6,13
+Watford,"Harrison, Steve","[u'1988-01 !', u'January 1988']","[u'1990-03 !', u'March 1990']",98,36,27,35
+Watford,"Lee, Colin","[u'1990-03 !', u'March 1990']","[u'1990-11 !', u'November 1990']",28,5,9,14
+Watford,"Perryman, Steve","[u'1990-11 !', u'November 1990']","[u'1993-07 !', u'July 1993']",121,42,35,44
+Watford,"Roeder, Glenn","[u'1993-07 !', u'July 1993']","[u'1996-02 !', u'February 1996']",120,39,32,49
+Watford,"Taylor, Graham","[u'1996-02 !', u'February 1996']","[u'1996-06 !', u'June 1996']",18,5,8,5
+Watford,"Jackett, Kenny","[u'1996-06 !', u'June 1996']","[u'1997-06 !', u'June 1997']",46,16,19,11
+Watford,"Taylor, Graham","[u'1997-06 !', u'June 1997']","[u'2001-05 !', u'May 2001']",176,71,45,60
+Watford,"Vialli, Gianluca","[u'2001-05 !', u'May 2001']","[u'2002-06 !', u'June 2002']",46,16,11,19
+Watford,"Lewington, Ray","[u'2002-06 !', u'June 2002']","[u'2005-03 !', u'March 2005']",131,42,36,53
+Watford,"Boothroyd, Aidy","[u'2005-03 !', u'March 2005']","[u'2008-10 !', u'November 2008']",152,51,48,53
+Watford,"Mackay, Malky","[u'2008-10 !', u'November 2008']","[u'2008-11 !', u'November 2008']",5,2,1,2
+Watford,"Rodgers, Brendan","[u'2008-11 !', u'November 2008']","[u'2009-06 !', u'June 2009']",27,11,6,10
+Watford,"Mackay, Malky","[u'2009-06 !', u'June 2009']","[u'2010-11 !', u'June 2011']",92,30,25,37
+Watford,"Dyche, Sean","[u'2011- !', u'June 2011']","[u'9999 !', u'July 2012']",46,16,16,14
+Watford,"Zola, Gianfranco","[u'2012- !', u'July 2012']","[u'2013 !', u' ', u'December 2013']",66,29,15,22
+Watford,"Sannino, Giuseppe","[u'2013- !', u'December 2013']",Aug-14,31,13,8,10
+Watford,"GarcÃ_a Junyent, Ã“scar","[u'2014-02 !', u'September 2014']","[u'2014-29 !', u'September 2014']",4,1,2,1
+Watford,"McKinlay, Billy","[u'2014-29 !', u'September 2014']","[u'2014-07 !', u'October 2014']",2,1,1,0
+Watford,"JokanoviÄ‡, SlaviÅ¡a","[u'2014-07 !', u'October 2014']","[u'2015-06 !', u'June 2015']",35,21,4,10
+Watford,"Flores, Quique","[u'2015-06 !', u'June 2015']",present,21,8,5,8

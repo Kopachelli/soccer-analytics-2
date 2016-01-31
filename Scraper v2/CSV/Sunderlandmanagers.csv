@@ -1,46 +1,46 @@
-Name,From,To,M,W,D,L
-–,November 1879,August 1889,12,8,1,3
-"[u'Watson, Tom', u'Tom Watson']",August 1889,August 1896,191,119,28,44
-"[u'Campbell, Robert', u'Robert Campbell']",August 1896,April 1899,103,41,22,40
-"[u'Mackie, Alex', u'Alex Mackie']",August 1899,April 1905,214,104,46,64
-"[u'Kyle, Bob', u'Bob Kyle']",August 1905,May 1928,817,371,155,291
-"[u'Cochrane, Johnny', u'Johnny Cochrane']",June 1928,March 1939,500,212,122,166
-–,March 1939,March 1939,5,2,0,3
-"[u'Murray, Bill', u'Bill Murray']",April 1939,June 1957,512,186,140,186
-"[u'Brown, Alan', u'Alan Brown']",August 1957,July 1964,332,138,88,106
-–,August 1964,November 1964,18,3,6,9
-"[u'Hardwick, George', u'George Hardwick', u' (caretaker)']",November 1964,April 1965,29,14,3,12
-"[u'McColl, Ian', u'Ian McColl']",August 1965,February 1968,124,39,27,58
-"[u'Brown, Alan', u'Alan Brown']",February 1968,November 1972,219,63,68,88
-"[u'Elliott, Billy', u'Billy Elliott', u' (caretaker)']",November 1972,November 1972,4,0,2,2
-"[u'Stokoe, Bob', u'Bob Stokoe']",23 November 1972,18 October 1976,197,92,49,56
-"[u'MacFarlane, Ian', u'Ian MacFarlane', u' (caretaker)']",18 October 1976,1 December 1976,7,2,1,4
-"[u'Adamson, Jimmy', u'Jimmy Adamson']",1 December 1976,25 October 1978,88,29,28,31
-"[u'Merrington, David', u'David Merrington', u' (caretaker)']",25 October 1978,13 December 1978,8,4,2,2
-"[u'Elliott, Billy', u'Billy Elliott']",13 December 1978,24 May 1979,26,14,7,5
-"[u'Knighton, Ken', u'Ken Knighton']",7 June 1979,1 April 1981,94,34,25,35
-"[u'Docherty, Mick', u'Mick Docherty', u' (caretaker)']",1 April 1981,1 June 1981,4,2,0,2
-"[u'Durban, Alan', u'Alan Durban']",1 June 1981,2 March 1984,130,37,40,53
-"[u'Robson, Pop', u'Pop Robson', u' (caretaker)']",2 March 1984,4 March 1984,1,0,1,0
-"[u'Ashurst, Len', u'Len Ashurst']",4 March 1984,23 May 1985,66,21,16,29
-"[u'McMenemy, Lawrie', u'Lawrie McMenemy']",8 June 1985,16 April 1987,90,27,24,39
-"[u'Stokoe, Bob', u'Bob Stokoe', u' (caretaker)']",16 April 1987,9 June 1987,9,3,2,4
-"[u'Smith, Denis', u'Denis Smith']",9 June 1987,30 December 1991,238,91,64,83
-"[u'Crosby, Malcolm', u'Malcolm Crosby']",30 December 1991,28 January 1993,60,21,15,24
-"[u'Butcher, Terry', u'Terry Butcher']",29 January 1993,26 November 1993,45,14,8,23
-"[u'Buxton, Mick', u'Mick Buxton']",26 November 1993,29 March 1995,76,25,24,27
-"[u'Reid, Peter', u'Peter Reid']",29 March 1995,7 October 2002,353,159,95,99
-"[u'Wilkinson, Howard', u'Howard Wilkinson']",10 October 2002,10 March 2003,27,4,8,15
-"[u'McCarthy, Mick', u'Mick McCarthy']",12 March 2003,6 March 2006,147,63,26,58
-"[u'Ball, Kevin', u'Kevin Ball', u' (caretaker)']",7 March 2006,31 May 2006,10,1,2,7
-"[u'Quinn, Niall', u'Niall Quinn']",25 July 2006,30 August 2006,6,1,0,5
-"[u'Keane, Roy', u'Roy Keane']",30 August 2006,4 December 2008,100,42,17,41
-"[u'Sbragia, Ricky', u'Ricky Sbragia']",4 December 2008,24 May 2009,26,6,7,13
-"[u'Bruce, Steve', u'Steve Bruce']",3 June 2009,30 November 2011,98,29,28,41
-"[u'Black, Eric', u'Eric Black', u' (caretaker)']",30 November 2011,3 December 2011,1,0,0,1
-"[u""O'Neill, Martin"", u""Martin O'Neill""]",3 December 2011,30 March 2013,54,19,16,19
-"[u'Di Canio, Paolo', u'Paolo Di Canio']",31 March 2013,22 September 2013,13,3,3,7
-"[u'Ball, Kevin', u'Kevin Ball', u' (caretaker)']",22 September 2013,8 October 2013,3,1,0,2
-"[u'Poyet, Gus', u'Gus Poyet']",8 October 2013,16 March 2015,75,23,22,30
-"[u'Advocaat, Dick', u'Dick Advocaat']",17 March 2015,4 October 2015,19,4,6,9
-"[u'Allardyce, Sam', u'Sam Allardyce']",9 October 2015,[],9,3,0,6
+Team,Name,From,To,M,W,D,L
+Sunderland,–,November 1879,August 1889,12,8,1,3
+Sunderland,"[u'Watson, Tom', u'Tom Watson']",August 1889,August 1896,191,119,28,44
+Sunderland,"[u'Campbell, Robert', u'Robert Campbell']",August 1896,April 1899,103,41,22,40
+Sunderland,"[u'Mackie, Alex', u'Alex Mackie']",August 1899,April 1905,214,104,46,64
+Sunderland,"[u'Kyle, Bob', u'Bob Kyle']",August 1905,May 1928,817,371,155,291
+Sunderland,"[u'Cochrane, Johnny', u'Johnny Cochrane']",June 1928,March 1939,500,212,122,166
+Sunderland,–,March 1939,March 1939,5,2,0,3
+Sunderland,"[u'Murray, Bill', u'Bill Murray']",April 1939,June 1957,512,186,140,186
+Sunderland,"[u'Brown, Alan', u'Alan Brown']",August 1957,July 1964,332,138,88,106
+Sunderland,–,August 1964,November 1964,18,3,6,9
+Sunderland,"[u'Hardwick, George', u'George Hardwick', u' (caretaker)']",November 1964,April 1965,29,14,3,12
+Sunderland,"[u'McColl, Ian', u'Ian McColl']",August 1965,February 1968,124,39,27,58
+Sunderland,"[u'Brown, Alan', u'Alan Brown']",February 1968,November 1972,219,63,68,88
+Sunderland,"[u'Elliott, Billy', u'Billy Elliott', u' (caretaker)']",November 1972,November 1972,4,0,2,2
+Sunderland,"[u'Stokoe, Bob', u'Bob Stokoe']",23 November 1972,18 October 1976,197,92,49,56
+Sunderland,"[u'MacFarlane, Ian', u'Ian MacFarlane', u' (caretaker)']",18 October 1976,1 December 1976,7,2,1,4
+Sunderland,"[u'Adamson, Jimmy', u'Jimmy Adamson']",1 December 1976,25 October 1978,88,29,28,31
+Sunderland,"[u'Merrington, David', u'David Merrington', u' (caretaker)']",25 October 1978,13 December 1978,8,4,2,2
+Sunderland,"[u'Elliott, Billy', u'Billy Elliott']",13 December 1978,24 May 1979,26,14,7,5
+Sunderland,"[u'Knighton, Ken', u'Ken Knighton']",7 June 1979,1 April 1981,94,34,25,35
+Sunderland,"[u'Docherty, Mick', u'Mick Docherty', u' (caretaker)']",1 April 1981,1 June 1981,4,2,0,2
+Sunderland,"[u'Durban, Alan', u'Alan Durban']",1 June 1981,2 March 1984,130,37,40,53
+Sunderland,"[u'Robson, Pop', u'Pop Robson', u' (caretaker)']",2 March 1984,4 March 1984,1,0,1,0
+Sunderland,"[u'Ashurst, Len', u'Len Ashurst']",4 March 1984,23 May 1985,66,21,16,29
+Sunderland,"[u'McMenemy, Lawrie', u'Lawrie McMenemy']",8 June 1985,16 April 1987,90,27,24,39
+Sunderland,"[u'Stokoe, Bob', u'Bob Stokoe', u' (caretaker)']",16 April 1987,9 June 1987,9,3,2,4
+Sunderland,"[u'Smith, Denis', u'Denis Smith']",9 June 1987,30 December 1991,238,91,64,83
+Sunderland,"[u'Crosby, Malcolm', u'Malcolm Crosby']",30 December 1991,28 January 1993,60,21,15,24
+Sunderland,"[u'Butcher, Terry', u'Terry Butcher']",29 January 1993,26 November 1993,45,14,8,23
+Sunderland,"[u'Buxton, Mick', u'Mick Buxton']",26 November 1993,29 March 1995,76,25,24,27
+Sunderland,"[u'Reid, Peter', u'Peter Reid']",29 March 1995,7 October 2002,353,159,95,99
+Sunderland,"[u'Wilkinson, Howard', u'Howard Wilkinson']",10 October 2002,10 March 2003,27,4,8,15
+Sunderland,"[u'McCarthy, Mick', u'Mick McCarthy']",12 March 2003,6 March 2006,147,63,26,58
+Sunderland,"[u'Ball, Kevin', u'Kevin Ball', u' (caretaker)']",7 March 2006,31 May 2006,10,1,2,7
+Sunderland,"[u'Quinn, Niall', u'Niall Quinn']",25 July 2006,30 August 2006,6,1,0,5
+Sunderland,"[u'Keane, Roy', u'Roy Keane']",30 August 2006,4 December 2008,100,42,17,41
+Sunderland,"[u'Sbragia, Ricky', u'Ricky Sbragia']",4 December 2008,24 May 2009,26,6,7,13
+Sunderland,"[u'Bruce, Steve', u'Steve Bruce']",3 June 2009,30 November 2011,98,29,28,41
+Sunderland,"[u'Black, Eric', u'Eric Black', u' (caretaker)']",30 November 2011,3 December 2011,1,0,0,1
+Sunderland,"[u""O'Neill, Martin"", u""Martin O'Neill""]",3 December 2011,30 March 2013,54,19,16,19
+Sunderland,"[u'Di Canio, Paolo', u'Paolo Di Canio']",31 March 2013,22 September 2013,13,3,3,7
+Sunderland,"[u'Ball, Kevin', u'Kevin Ball', u' (caretaker)']",22 September 2013,8 October 2013,3,1,0,2
+Sunderland,"[u'Poyet, Gus', u'Gus Poyet']",8 October 2013,16 March 2015,75,23,22,30
+Sunderland,"[u'Advocaat, Dick', u'Dick Advocaat']",17 March 2015,4 October 2015,19,4,6,9
+Sunderland,"[u'Allardyce, Sam', u'Sam Allardyce']",9 October 2015,[],9,3,0,6

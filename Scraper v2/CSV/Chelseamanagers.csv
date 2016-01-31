@@ -1,38 +1,38 @@
-Name,From,To,M,W,D,L,F,A
-"[u'John Tait Robertson', u'[', u']']",1 August 1905,27 November 1906,54,33,10,11,126,57
-"[u'William Lewis', u'[', u'nb 2', u']']",27 November 1906,1 August 1907,27,17,5,5,54,25
-David Calderhead,1 August 1907,8 May 1933,966,385,239,342,1376,1305
-Leslie Knighton,8 May 1933,19 April 1939,269,92,69,108,419,446
-Billy Birrell,19 April 1939,31 May 1952,293,97,77,119,410,462
-Ted Drake,1 June 1952,30 September 1961,426,156,103,167,771,772
-Tommy Docherty,1 October 1961,6 October 1967,303,142,65,96,526,422
-"[u'Ron Suart', u'[', u'nb 2', u']']",6 October 1967,23 October 1967,2,0,1,1,1,8
-Dave Sexton,23 October 1967,3 October 1974,371,164,107,100,569,430
-Ron Suart,3 October 1974,16 April 1975,34,8,12,14,38,62
-Eddie McCreadie,16 April 1975,1 July 1977,97,37,33,27,141,133
-Ken Shellito,7 July 1977,13 December 1978,66,15,19,32,77,115
-Danny Blanchflower,14 December 1978,11 September 1979,32,5,8,19,34,68
-Geoff Hurst,13 September 1979,23 April 1981,81,35,19,27,108,89
-"[u'Bobby Gould', u'[', u'nb 2', u']']",23 April 1981,May 1981,2,0,0,2,0,5
-John Neal,28 May 1981,11 June 1985,203,84,61,58,326,253
-John Hollins,11 June 1985,6 March 1988,145,56,38,51,199,217
-Bobby Campbell,6 March 1988,12 May 1991,165,77,47,41,287,233
-Ian Porterfield,11 June 1991,15 February 1993,90,31,28,31,106,119
-"[u'David Webb', u'[', u'nb 2', u']']",15 February 1993,11 May 1993,13,5,4,4,19,18
-"[u'Glenn Hoddle', u'[', u']']",4 June 1993,10 May 1996,157,53,54,50,192,182
-"[u'Ruud Gullit', u'[', u']']",10 May 1996,12 February 1998,83,41,18,24,157,109
-"[u'Gianluca Vialli', u'[', u']']",12 February 1998,[],143,76,38,29,223,123
-"[u'Graham Rix', u'[', u'nb 2', u']']",[],[],2,1,0,1,1,2
-Claudio Ranieri,[],31 May 2004,199,107,46,46,358,197
-José Mourinho,2 June 2004,19 September 2007,185,124,40,21,330,119
-Avram Grant,20 September 2007,24 May 2008,54,36,13,5,97,36
-Luiz Felipe Scolari,1 July 2008,9 February 2009,36,20,11,5,66,24
-"[u'Ray Wilkins', u'[', u'nb 2', u']']",9 February 2009,15 February 2009,1,1,0,0,3,1
-"[u'Guus Hiddink', u'[', u'nb 2', u']']",16 February 2009,30 May 2009,22,16,5,1,41,19
-Carlo Ancelotti,1 July 2009,22 May 2011,109,67,20,22,241,94
-André Villas-Boas,22 June 2011,4 March 2012,40,19,11,10,69,43
-Roberto Di Matteo,4 March 2012,21 November 2012,42,24,9,9,43,23
-"[u'Rafael Ben\xedtez', u'[', u'nb 2', u']']",21 November 2012,27 May 2013,48,28,10,10,99,48
-José Mourinho,3 June 2013,17 December 2015,136,80,29,27,245,121
-"[u'Steve Holland', u'[', u'nb 2', u']']",17 December 2015,19 December 2015,1,1,0,0,3,1
-"[u'Guus Hiddink', u'[', u'nb 2', u']']",19 December 2015,Present,4,2,2,0,7,2
+Team,Name,From,To,M,W,D,L,F,A
+Chelsea,"[u'John Tait Robertson', u'[', u']']",1 August 1905,27 November 1906,54,33,10,11,126,57
+Chelsea,"[u'William Lewis', u'[', u'nb 2', u']']",27 November 1906,1 August 1907,27,17,5,5,54,25
+Chelsea,David Calderhead,1 August 1907,8 May 1933,966,385,239,342,1376,1305
+Chelsea,Leslie Knighton,8 May 1933,19 April 1939,269,92,69,108,419,446
+Chelsea,Billy Birrell,19 April 1939,31 May 1952,293,97,77,119,410,462
+Chelsea,Ted Drake,1 June 1952,30 September 1961,426,156,103,167,771,772
+Chelsea,Tommy Docherty,1 October 1961,6 October 1967,303,142,65,96,526,422
+Chelsea,"[u'Ron Suart', u'[', u'nb 2', u']']",6 October 1967,23 October 1967,2,0,1,1,1,8
+Chelsea,Dave Sexton,23 October 1967,3 October 1974,371,164,107,100,569,430
+Chelsea,Ron Suart,3 October 1974,16 April 1975,34,8,12,14,38,62
+Chelsea,Eddie McCreadie,16 April 1975,1 July 1977,97,37,33,27,141,133
+Chelsea,Ken Shellito,7 July 1977,13 December 1978,66,15,19,32,77,115
+Chelsea,Danny Blanchflower,14 December 1978,11 September 1979,32,5,8,19,34,68
+Chelsea,Geoff Hurst,13 September 1979,23 April 1981,81,35,19,27,108,89
+Chelsea,"[u'Bobby Gould', u'[', u'nb 2', u']']",23 April 1981,May 1981,2,0,0,2,0,5
+Chelsea,John Neal,28 May 1981,11 June 1985,203,84,61,58,326,253
+Chelsea,John Hollins,11 June 1985,6 March 1988,145,56,38,51,199,217
+Chelsea,Bobby Campbell,6 March 1988,12 May 1991,165,77,47,41,287,233
+Chelsea,Ian Porterfield,11 June 1991,15 February 1993,90,31,28,31,106,119
+Chelsea,"[u'David Webb', u'[', u'nb 2', u']']",15 February 1993,11 May 1993,13,5,4,4,19,18
+Chelsea,"[u'Glenn Hoddle', u'[', u']']",4 June 1993,10 May 1996,157,53,54,50,192,182
+Chelsea,"[u'Ruud Gullit', u'[', u']']",10 May 1996,12 February 1998,83,41,18,24,157,109
+Chelsea,"[u'Gianluca Vialli', u'[', u']']",12 February 1998,[],143,76,38,29,223,123
+Chelsea,"[u'Graham Rix', u'[', u'nb 2', u']']",[],[],2,1,0,1,1,2
+Chelsea,Claudio Ranieri,[],31 May 2004,199,107,46,46,358,197
+Chelsea,José Mourinho,2 June 2004,19 September 2007,185,124,40,21,330,119
+Chelsea,Avram Grant,20 September 2007,24 May 2008,54,36,13,5,97,36
+Chelsea,Luiz Felipe Scolari,1 July 2008,9 February 2009,36,20,11,5,66,24
+Chelsea,"[u'Ray Wilkins', u'[', u'nb 2', u']']",9 February 2009,15 February 2009,1,1,0,0,3,1
+Chelsea,"[u'Guus Hiddink', u'[', u'nb 2', u']']",16 February 2009,30 May 2009,22,16,5,1,41,19
+Chelsea,Carlo Ancelotti,1 July 2009,22 May 2011,109,67,20,22,241,94
+Chelsea,André Villas-Boas,22 June 2011,4 March 2012,40,19,11,10,69,43
+Chelsea,Roberto Di Matteo,4 March 2012,21 November 2012,42,24,9,9,43,23
+Chelsea,"[u'Rafael Ben\xedtez', u'[', u'nb 2', u']']",21 November 2012,27 May 2013,48,28,10,10,99,48
+Chelsea,José Mourinho,3 June 2013,17 December 2015,136,80,29,27,245,121
+Chelsea,"[u'Steve Holland', u'[', u'nb 2', u']']",17 December 2015,19 December 2015,1,1,0,0,3,1
+Chelsea,"[u'Guus Hiddink', u'[', u'nb 2', u']']",19 December 2015,Present,4,2,2,0,7,2

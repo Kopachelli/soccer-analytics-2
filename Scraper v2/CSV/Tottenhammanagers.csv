@@ -1,21 +1,21 @@
-Manager,Played,Won
-"[u' ', u'Frank Brettell']",63,37
-"[u' ', u'Arthur Turner']",49,27
-"[u' ', u'Andr\xe9 Villas-Boas']",80,44
-"[u' ', u'John Cameron']",570,296
-"[u' ', u'Mauricio Pochettino']",89,45
-"[u' ', u'David Pleat ', u'1']",119,60
-"[u' ', u'Tim Sherwood']",28,14
-"[u' ', u'Harry Redknapp']",198,98
-"[u' ', u'Bill Nicholson']",832,408
-"[u' ', u'Arthur Rowe']",283,135
-"[u' ', u'Fred Kirkham']",61,29
-"[u' ', u'Jimmy Anderson ', u'2']",161,75
-"[u' ', u'Percy Smith']",253,109
-"[u' ', u'Doug Livermore', u'\n', u' ', u'Ray Clemence']",51,23
-"[u' ', u'Martin Jol ', u'3']",149,67
-"[u' ', u'Peter Shreeves']",177,79
-"[u' ', u'Jack Tresadern']",146,65
-"[u' ', u'Peter McWilliam']",750,331
- 'The Directors',231,99
-"[u' ', u'Joe Hulme']",150,64
+Team,Manager,Played,Won
+Tottenham,"[u' ', u'Frank Brettell']",63,37
+Tottenham,"[u' ', u'Arthur Turner']",49,27
+Tottenham,"[u' ', u'Andr\xe9 Villas-Boas']",80,44
+Tottenham,"[u' ', u'John Cameron']",570,296
+Tottenham,"[u' ', u'Mauricio Pochettino']",89,45
+Tottenham,"[u' ', u'David Pleat ', u'1']",119,60
+Tottenham,"[u' ', u'Tim Sherwood']",28,14
+Tottenham,"[u' ', u'Harry Redknapp']",198,98
+Tottenham,"[u' ', u'Bill Nicholson']",832,408
+Tottenham,"[u' ', u'Arthur Rowe']",283,135
+Tottenham,"[u' ', u'Fred Kirkham']",61,29
+Tottenham,"[u' ', u'Jimmy Anderson ', u'2']",161,75
+Tottenham,"[u' ', u'Percy Smith']",253,109
+Tottenham,"[u' ', u'Doug Livermore', u'\n', u' ', u'Ray Clemence']",51,23
+Tottenham,"[u' ', u'Martin Jol ', u'3']",149,67
+Tottenham,"[u' ', u'Peter Shreeves']",177,79
+Tottenham,"[u' ', u'Jack Tresadern']",146,65
+Tottenham,"[u' ', u'Peter McWilliam']",750,331
+Tottenham, 'The Directors',231,99
+Tottenham,"[u' ', u'Joe Hulme']",150,64

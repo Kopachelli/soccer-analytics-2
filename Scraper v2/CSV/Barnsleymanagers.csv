@@ -1,45 +1,45 @@
-Name,From,To,M,W,D,L
-"[u'Jones, Alfred', u'Alfred Jones']",July 1892,June 1908,566,260,108,198
-"[u'Watson, Alex', u'Alex Watson']",July 1908,June 1910,78,22,16,40
-"[u'McRoberts, Bob', u'Bob McRoberts']",July 1910,May 1915,203,77,47,79
-"[u'Richards, Frank', u'Frank Richards']",May 1915,May 1923,173,78,36,59
-"[u'Beer, Billy', u'Billy Beer']",May 1923,March 1927,163,62,36,65
-"[u'Harvey, Bill', u'Bill Harvey']",March 1927,May 1928,58,20,16,22
-"[u'Knighton, Leslie', u'Leslie Knighton']",August 1928,May 1933,229,87,51,91
-"[u'Liddell, George', u'George Liddell']",July 1933,September 1939,267,82,76,109
-"[u'Camkin, Bill', u'Bill Camkin']",September 1939,November 1944,0,0,0,0
-"[u'Goodier, Ted', u'Ted Goodier', u' ']",November 1944,May 1945,0,0,0,0
-"[u'Storer, Harry', u'Harry Storer']",June 1945,November 1948,114,59,30,25
-Walter Taylor ,November 1948,January 1949,9,3,1,5
-"[u'Brocklebank, Bob', u'Bob Brocklebank']",January 1949,October 1954,263,102,71,90
-"[u'Turner, Arthur', u'Arthur Turner']",November 1954,February 1958,166,74,35,57
-"[u'Turner, Arthur', u'Arthur Turner', u'\n', u'Beasley, Pat', u'Pat Beasley']",February 1958,September 1958,17,6,5,6
-"[u'Beasley, Pat', u'Pat Beasley']",September 1958,May 1960,95,39,20,36
-"[u'Merrick, Gil', u'Gil Merrick']",May 1960,"[u'28 April 1964', u'[', u'62', u']']",202,64,46,92
-"[u'Mallett, Joe', u'Joe Mallett']",July 1964,27 December 1965,66,15,16,35
-"[u'Cullis, Stan', u'Stan Cullis']",27 December 1965,18 March 1970,214,87,51,76
-"[u'Dorman, Don', u'Don Dorman', u' ', u'\n', u'Bill Shorthouse', u' ']",18 March 1970,29 May 1970,6,1,0,5
-"[u'Goodwin, Freddie', u'Freddie Goodwin']",29 May 1970,18 September 1975,269,99,83,87
-"[u'Bell, Willie', u'Willie Bell']",18 September 1975,5 September 1977,91,28,20,43
-"[u'Ramsey, Sir Alf', u'Sir Alf Ramsey']",8 September 1977,6 March 1978,28,11,4,13
-"[u'Smith, Jim', u'Jim Smith']",12 March 1978,15 February 1982,182,59,50,73
-"[u'Bodell, Norman', u'Norman Bodell', u' ']",15 February 1982,22 February 1982,2,1,0,1
-"[u'Saunders, Ron', u'Ron Saunders']",22 February 1982,16 January 1986,202,72,53,77
-"[u'Leonard, Keith', u'Keith Leonard', u' ']",16 January 1986,22 January 1986,1,0,0,1
-"[u'Bond, John', u'John Bond']",23 January 1986,27 May 1987,65,17,20,28
-"[u'Pendrey, Garry', u'Garry Pendrey']",28 May 1987,26 April 1989,98,20,27,51
-"[u'Mackay, Dave', u'Dave Mackay']",26 April 1989,23 January 1991,91,34,27,30
-"[u'Coldwell, Bill', u'Bill Coldwell', u' ']",23 January 1991,7 February 1991,3,2,1,0
-"[u'Macari, Lou', u'Lou Macari']",7 February 1991,18 June 1991,24,12,6,6
-"[u'Cooper, Terry', u'Terry Cooper']",9 August 1991,29 November 1993,135,48,36,51
-"[u'Broadhurst, Kevan', u'Kevan Broadhurst', u' ', u'\n', u'Trevor Morgan', u' ']",29 November 1993,10 December 1993,1,0,0,1
-"[u'Fry, Barry', u'Barry Fry']",10 December 1993,7 May 1996,156,68,44,44
-"[u'Francis, Trevor', u'Trevor Francis']",10 May 1996,15 October 2001,290,139,70,81
-"[u'Mills, Mick', u'Mick Mills', u' ', u'\n', u'Jim Barron', u' ']",15 October 2001,12 December 2001,12,5,4,3
-"[u'Bruce, Steve', u'Steve Bruce']",12 December 2001,23 November 2007,270,100,70,100
-"[u'Black, Eric', u'Eric Black', u' ']",23 November 2007,27 November 2007,1,0,0,1
-"[u'McLeish, Alex', u'Alex McLeish']",28 November 2007,12 June 2011,168,62,51,55
-"[u'Hughton, Chris', u'Chris Hughton']",22 June 2011,7 June 2012,62,26,21,15
-"[u'Clark, Lee', u'Lee Clark']",26 June 2012,20 October 2014,116,33,35,48
-"[u'Beale, Richard', u'Richard Beale', u' ', u'\n', u'Malcolm Crosby', u' ']",20 October 2014,27 October 2014,2,0,0,2
-"[u'Rowett, Gary', u'Gary Rowett']",27 October 2014,Present,67,30,18,19
+Team,Name,From,To,M,W,D,L
+Barnsley,"[u'Jones, Alfred', u'Alfred Jones']",July 1892,June 1908,566,260,108,198
+Barnsley,"[u'Watson, Alex', u'Alex Watson']",July 1908,June 1910,78,22,16,40
+Barnsley,"[u'McRoberts, Bob', u'Bob McRoberts']",July 1910,May 1915,203,77,47,79
+Barnsley,"[u'Richards, Frank', u'Frank Richards']",May 1915,May 1923,173,78,36,59
+Barnsley,"[u'Beer, Billy', u'Billy Beer']",May 1923,March 1927,163,62,36,65
+Barnsley,"[u'Harvey, Bill', u'Bill Harvey']",March 1927,May 1928,58,20,16,22
+Barnsley,"[u'Knighton, Leslie', u'Leslie Knighton']",August 1928,May 1933,229,87,51,91
+Barnsley,"[u'Liddell, George', u'George Liddell']",July 1933,September 1939,267,82,76,109
+Barnsley,"[u'Camkin, Bill', u'Bill Camkin']",September 1939,November 1944,0,0,0,0
+Barnsley,"[u'Goodier, Ted', u'Ted Goodier', u' ']",November 1944,May 1945,0,0,0,0
+Barnsley,"[u'Storer, Harry', u'Harry Storer']",June 1945,November 1948,114,59,30,25
+Barnsley,Walter Taylor ,November 1948,January 1949,9,3,1,5
+Barnsley,"[u'Brocklebank, Bob', u'Bob Brocklebank']",January 1949,October 1954,263,102,71,90
+Barnsley,"[u'Turner, Arthur', u'Arthur Turner']",November 1954,February 1958,166,74,35,57
+Barnsley,"[u'Turner, Arthur', u'Arthur Turner', u'\n', u'Beasley, Pat', u'Pat Beasley']",February 1958,September 1958,17,6,5,6
+Barnsley,"[u'Beasley, Pat', u'Pat Beasley']",September 1958,May 1960,95,39,20,36
+Barnsley,"[u'Merrick, Gil', u'Gil Merrick']",May 1960,"[u'28 April 1964', u'[', u'62', u']']",202,64,46,92
+Barnsley,"[u'Mallett, Joe', u'Joe Mallett']",July 1964,27 December 1965,66,15,16,35
+Barnsley,"[u'Cullis, Stan', u'Stan Cullis']",27 December 1965,18 March 1970,214,87,51,76
+Barnsley,"[u'Dorman, Don', u'Don Dorman', u' ', u'\n', u'Bill Shorthouse', u' ']",18 March 1970,29 May 1970,6,1,0,5
+Barnsley,"[u'Goodwin, Freddie', u'Freddie Goodwin']",29 May 1970,18 September 1975,269,99,83,87
+Barnsley,"[u'Bell, Willie', u'Willie Bell']",18 September 1975,5 September 1977,91,28,20,43
+Barnsley,"[u'Ramsey, Sir Alf', u'Sir Alf Ramsey']",8 September 1977,6 March 1978,28,11,4,13
+Barnsley,"[u'Smith, Jim', u'Jim Smith']",12 March 1978,15 February 1982,182,59,50,73
+Barnsley,"[u'Bodell, Norman', u'Norman Bodell', u' ']",15 February 1982,22 February 1982,2,1,0,1
+Barnsley,"[u'Saunders, Ron', u'Ron Saunders']",22 February 1982,16 January 1986,202,72,53,77
+Barnsley,"[u'Leonard, Keith', u'Keith Leonard', u' ']",16 January 1986,22 January 1986,1,0,0,1
+Barnsley,"[u'Bond, John', u'John Bond']",23 January 1986,27 May 1987,65,17,20,28
+Barnsley,"[u'Pendrey, Garry', u'Garry Pendrey']",28 May 1987,26 April 1989,98,20,27,51
+Barnsley,"[u'Mackay, Dave', u'Dave Mackay']",26 April 1989,23 January 1991,91,34,27,30
+Barnsley,"[u'Coldwell, Bill', u'Bill Coldwell', u' ']",23 January 1991,7 February 1991,3,2,1,0
+Barnsley,"[u'Macari, Lou', u'Lou Macari']",7 February 1991,18 June 1991,24,12,6,6
+Barnsley,"[u'Cooper, Terry', u'Terry Cooper']",9 August 1991,29 November 1993,135,48,36,51
+Barnsley,"[u'Broadhurst, Kevan', u'Kevan Broadhurst', u' ', u'\n', u'Trevor Morgan', u' ']",29 November 1993,10 December 1993,1,0,0,1
+Barnsley,"[u'Fry, Barry', u'Barry Fry']",10 December 1993,7 May 1996,156,68,44,44
+Barnsley,"[u'Francis, Trevor', u'Trevor Francis']",10 May 1996,15 October 2001,290,139,70,81
+Barnsley,"[u'Mills, Mick', u'Mick Mills', u' ', u'\n', u'Jim Barron', u' ']",15 October 2001,12 December 2001,12,5,4,3
+Barnsley,"[u'Bruce, Steve', u'Steve Bruce']",12 December 2001,23 November 2007,270,100,70,100
+Barnsley,"[u'Black, Eric', u'Eric Black', u' ']",23 November 2007,27 November 2007,1,0,0,1
+Barnsley,"[u'McLeish, Alex', u'Alex McLeish']",28 November 2007,12 June 2011,168,62,51,55
+Barnsley,"[u'Hughton, Chris', u'Chris Hughton']",22 June 2011,7 June 2012,62,26,21,15
+Barnsley,"[u'Clark, Lee', u'Lee Clark']",26 June 2012,20 October 2014,116,33,35,48
+Barnsley,"[u'Beale, Richard', u'Richard Beale', u' ', u'\n', u'Malcolm Crosby', u' ']",20 October 2014,27 October 2014,2,0,0,2
+Barnsley,"[u'Rowett, Gary', u'Gary Rowett']",27 October 2014,Present,67,30,18,19

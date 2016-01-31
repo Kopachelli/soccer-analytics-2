@@ -11,11 +11,13 @@ import pandas as pd
 
 
 #Iterate through teams
-for csvFile in glob.glob('CSV2/*csv'): #within the path of this folder, the csvs are stored in the /CSV folder.
+for csvFile in glob.glob('CSV/*csv'): #within the path of this folder, the csvs are stored in the /CSV folder.
 	#iterate through each CSV file (mirroring each club in dataset)
 	df = pd.read_csv(csvFile)
 
 	keep_cols = []
+
+	teamName = str(csvFile).replace('CSV/',"").replace("managers","").replace(".csv","")
 
 	header = df.columns.values.tolist()
 
@@ -58,7 +60,11 @@ for csvFile in glob.glob('CSV2/*csv'): #within the path of this folder, the csvs
 
 	new_df = df[keep_cols]
 
+	new_df.insert(0, "Team", teamName)
+
 	new_df.to_csv(csvFile, index=False)
+
+	print "Script Complete for: " + str(csvFile)
 	
 
 

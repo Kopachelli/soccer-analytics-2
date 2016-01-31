@@ -1,24 +1,24 @@
-Name,From,To,P,W,D,L
-"Barclay, William Edward",15 February 1892,16 August 1896,127,77,20,30
-"Watson, Tom",17 August 1896,6-May-15,742,329,141,272
-"Patterson, George",1-Jun-15,14-Dec-19,18,7,2,9
-"Ashworth, David",18-Dec-19,12-Feb-23,139,70,40,29
-"McQueen, Matt",13-Feb-23,15-Feb-28,229,93,60,76
-"Patterson, George",7-Mar-28,6-Aug-36,366,137,85,144
-"Kay, George",6-Aug-36,Jan-51,357,142,93,122
-"Welsh, Don",23-Mar-51,4-May-56,232,81,58,93
-"Taylor, Phil",May-56,17-Nov-59,150,76,32,42
-"Shankly, Bill",1-Dec-59,12-Jul-74,783,407,198,178
-"Paisley, Bob",26-Aug-74,1-Jul-83,581,380,131,70
-"Fagan, Joe",2-Jul-83,29-May-85,131,71,36,24
-"Dalglish, Kenny",30-May-85,21-Feb-91,307,187,78,42
-"Moran, Ronnie",22-Feb-91,15-Apr-91,10,4,1,5
-"Souness, Graeme",16-Apr-91,28-Jan-94,157,66,45,46
-"Evans, Roy",31-Jan-94,12-Nov-98,226,117,56,53
-"Evans, Roy",16-Jul-98,12-Nov-98,18,7,6,5
-"Houllier, GÌ©rard",16-Jul-98,24-May-04,307,160,73,74
-"BenÌ_tez, Rafael",16-Jun-04,3-Jun-10,350,197,74,79
-"Hodgson, Roy",1-Jul-10,8-Jan-11,31,13,8,10
-"Dalglish, Kenny",8-Jan-11,16-May-12,74,35,17,22
-Brendan Rodgers,1-Jun-12,4-Oct-15,166,85,39,42
-JÌ_rgen Klopp,8-Oct-15,present,24,12,7,5
+Team,Name,From,To,P,W,D,L
+Liverpool,"Barclay, William Edward",15 February 1892,16 August 1896,127,77,20,30
+Liverpool,"Watson, Tom",17 August 1896,6-May-15,742,329,141,272
+Liverpool,"Patterson, George",1-Jun-15,14-Dec-19,18,7,2,9
+Liverpool,"Ashworth, David",18-Dec-19,12-Feb-23,139,70,40,29
+Liverpool,"McQueen, Matt",13-Feb-23,15-Feb-28,229,93,60,76
+Liverpool,"Patterson, George",7-Mar-28,6-Aug-36,366,137,85,144
+Liverpool,"Kay, George",6-Aug-36,Jan-51,357,142,93,122
+Liverpool,"Welsh, Don",23-Mar-51,4-May-56,232,81,58,93
+Liverpool,"Taylor, Phil",May-56,17-Nov-59,150,76,32,42
+Liverpool,"Shankly, Bill",1-Dec-59,12-Jul-74,783,407,198,178
+Liverpool,"Paisley, Bob",26-Aug-74,1-Jul-83,581,380,131,70
+Liverpool,"Fagan, Joe",2-Jul-83,29-May-85,131,71,36,24
+Liverpool,"Dalglish, Kenny",30-May-85,21-Feb-91,307,187,78,42
+Liverpool,"Moran, Ronnie",22-Feb-91,15-Apr-91,10,4,1,5
+Liverpool,"Souness, Graeme",16-Apr-91,28-Jan-94,157,66,45,46
+Liverpool,"Evans, Roy",31-Jan-94,12-Nov-98,226,117,56,53
+Liverpool,"Evans, Roy",16-Jul-98,12-Nov-98,18,7,6,5
+Liverpool,"Houllier, GÌ©rard",16-Jul-98,24-May-04,307,160,73,74
+Liverpool,"BenÌ_tez, Rafael",16-Jun-04,3-Jun-10,350,197,74,79
+Liverpool,"Hodgson, Roy",1-Jul-10,8-Jan-11,31,13,8,10
+Liverpool,"Dalglish, Kenny",8-Jan-11,16-May-12,74,35,17,22
+Liverpool,Brendan Rodgers,1-Jun-12,4-Oct-15,166,85,39,42
+Liverpool,JÌ_rgen Klopp,8-Oct-15,present,24,12,7,5

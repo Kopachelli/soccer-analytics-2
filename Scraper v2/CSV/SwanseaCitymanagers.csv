@@ -1,48 +1,48 @@
-Name,From,To,P,W,D,L
-"[u'Whittaker, Walter', u'Walter Whittaker']",1 August 1912,31 May 1914,2,1.0,0,1
-William Bartlett,1 August 1914,31 May 1915,3,1.0,1,1
-"[u'Bradshaw, Joe', u'Joe Bradshaw']",1 August 1919,1 May 1926,272,128.0,73,71
-Jimmy Thomson,1 February 1927,31 May 1931,193,63.0,46,84
-"[u'Harris, Neil', u'Neil Harris']",1 July 1934,1 May 1939,218,71.0,49,98
-"[u'Green, Haydn', u'Haydn Green']",1 May 1939,1 September 1947,50,13.0,9,28
-"[u'McCandless, Billy', u'Billy McCandless']",1 November 1948,1 July 1955,294,113.0,61,120
-"[u'Burgess, Ronnie', u'Ronnie Burgess']",1 July 1955,1 August 1958,129,50.0,22,57
-"[u'Morris, Trevor', u'Trevor Morris']",1 August 1958,31 May 1965,327,112.0,77,138
-"[u'Davies, Glyn', u'Glyn Davies']",1 June 1965,1 October 1966,58,16.0,15,27
-"[u'Lucas, Billy', u'Billy Lucas']",1 February 1967,1 March 1969,97,34.0,24,39
-"[u'Bentley, Roy', u'Roy Bentley']",1 August 1969,16 October 1972,153,56.0,45,52
-"[u'Gregg, Harry', u'Harry Gregg']",1 November 1972,1 January 1975,101,34.0,23,44
-"[u'Griffiths, Harry', u'Harry Griffiths']",1 January 1975,29 October 1977,127,54.0,28,45
-1 February 1978,9,4,3,44.44,[],"[u'[', u'14', u']']"
-"[u'Toshack, John', u'John Toshack', u'[', u']']",1 February 1978,29 October 1983,251,104.0,59,88
-"[u'Livermore, Doug', u'Doug Livermore', u'[', u'nb 2', u']']",29 October 1983,21 December 1983,9,1.0,1,7
-"[u'Toshack, John', u'John Toshack', u'[', u']']",21 December 1983,4 March 1984,11,2.0,3,6
-"[u'Chappell, Les', u'Les Chappell', u'[', u'nb 2', u']']",4 March 1984,16 May 1984,12,3.0,2,7
-"[u'Appleton, Colin', u'Colin Appleton']",16 May 1984,6 December 1984,22,4.0,3,15
-"[u'Bond, John', u'John Bond']",16 December 1984,20 December 1985,54,15.0,11,28
-"[u'Hutchison, Tommy', u'Tommy Hutchison', u'[', u']']",21 December 1985,1 May 1986,23,6.0,7,10
-"[u'Yorath, Terry', u'Terry Yorath', u'[', u']']",12 July 1986,2 February 1989,139,58.0,35,46
-"[u'Evans, Ian', u'Ian Evans']",27 February 1989,13 March 1990,58,15.0,19,24
-"[u'Yorath, Terry', u'Terry Yorath']",15 March 1990,21 March 1991,51,15.0,10,26
-"[u'Burrows, Frank', u'Frank Burrows']",21 March 1991,31 July 1995,231,85.0,65,81
-"[u'Smith, Bobby', u'Bobby Smith']",1 August 1995,31 July 1996,49,12.0,14,23
-"[u'Cullis, Kevin', u'Kevin Cullis']",8 February 1996,14 February 1996,2,0.0,0,2
-"[u'Rimmer, Jimmy', u'Jimmy Rimmer']",14 February 1996,22 February 1996,2,0.0,1,1
-"[u'M\xf8lby, Jan', u'Jan M\xf8lby', u'[', u']']",22 February 1996,8 October 1997,80,31.0,16,33
-"[u'Adams, Micky', u'Micky Adams', u'[', u']']",9 October 1997,22 October 1997,3,0.0,0,3
-"[u'Cork, Alan', u'Alan Cork']",22 October 1997,30 June 1998,35,10.0,10,15
-"[u'Hollins, John', u'John Hollins']",1 July 1998,12 September 2001,170,63.0,47,60
-"[u'Addison, Colin', u'Colin Addison']",13 September 2001,7 March 2002,35,11.0,8,16
-"[u'Freestone, Roger', u'Roger Freestone', u'[', u'nb 3', u']']",8 March 2002,20 April 2002,8,1.0,2,5
-"[u'Cusack, Nick', u'Nick Cusack', u'[', u'nb 3', u']']",8 March 2002,19 September 2002,8,2.0,5,1
-"[u'Flynn, Brian', u'Brian Flynn']",19 September 2002,18 March 2004,82,28.0,22,32
-"[u'Curtis, Alan', u'Alan Curtis', u'[', u'nb 2', u']']",18 March 2004,5 April 2004,4,1.0,1,2
-"[u'Jackett, Kenny', u'Kenny Jackett']",5 April 2004,15 February 2007,156,69.0,40,47
-"[u'Nugent, Kevin', u'Kevin Nugent', u'[', u'nb 2', u']']",15 February 2007,24 February 2007,3,0.0,1,2
-"[u'Mart\xednez, Roberto', u'Roberto Mart\xednez']",24 February 2007,15 June 2009,126,63.0,37,26
-"[u'Sousa, Paulo', u'Paulo Sousa']",22 June 2009,5 July 2010,49,18.0,18,13
-"[u'Rodgers, Brendan', u'Brendan Rodgers']",16 July 2010,1 June 2012,96,43.0,20,33
-"[u'Laudrup, Michael', u'Michael Laudrup']",17 June 2012,4 February 2014,84,29.0,24,31
-"[u'Monk, Garry', u'Garry Monk']",4 February 2014,9 December 2015,74,28.0,16,30
-"[u'Curtis, Alan', u'Alan Curtis', u'[', u'nb 2', u']']",9 December 2015,18 January 2016,8,2.0,2,4
-"[u'Guidolin, Francesco', u'Francesco Guidolin']",18 January 2016,Present,0,0.0,0,0
+Team,Name,From,To,P,W,D,L
+SwanseaCity,"[u'Whittaker, Walter', u'Walter Whittaker']",1 August 1912,31 May 1914,2,1.0,0,1
+SwanseaCity,William Bartlett,1 August 1914,31 May 1915,3,1.0,1,1
+SwanseaCity,"[u'Bradshaw, Joe', u'Joe Bradshaw']",1 August 1919,1 May 1926,272,128.0,73,71
+SwanseaCity,Jimmy Thomson,1 February 1927,31 May 1931,193,63.0,46,84
+SwanseaCity,"[u'Harris, Neil', u'Neil Harris']",1 July 1934,1 May 1939,218,71.0,49,98
+SwanseaCity,"[u'Green, Haydn', u'Haydn Green']",1 May 1939,1 September 1947,50,13.0,9,28
+SwanseaCity,"[u'McCandless, Billy', u'Billy McCandless']",1 November 1948,1 July 1955,294,113.0,61,120
+SwanseaCity,"[u'Burgess, Ronnie', u'Ronnie Burgess']",1 July 1955,1 August 1958,129,50.0,22,57
+SwanseaCity,"[u'Morris, Trevor', u'Trevor Morris']",1 August 1958,31 May 1965,327,112.0,77,138
+SwanseaCity,"[u'Davies, Glyn', u'Glyn Davies']",1 June 1965,1 October 1966,58,16.0,15,27
+SwanseaCity,"[u'Lucas, Billy', u'Billy Lucas']",1 February 1967,1 March 1969,97,34.0,24,39
+SwanseaCity,"[u'Bentley, Roy', u'Roy Bentley']",1 August 1969,16 October 1972,153,56.0,45,52
+SwanseaCity,"[u'Gregg, Harry', u'Harry Gregg']",1 November 1972,1 January 1975,101,34.0,23,44
+SwanseaCity,"[u'Griffiths, Harry', u'Harry Griffiths']",1 January 1975,29 October 1977,127,54.0,28,45
+SwanseaCity,1 February 1978,9,4,3,44.44,[],"[u'[', u'14', u']']"
+SwanseaCity,"[u'Toshack, John', u'John Toshack', u'[', u']']",1 February 1978,29 October 1983,251,104.0,59,88
+SwanseaCity,"[u'Livermore, Doug', u'Doug Livermore', u'[', u'nb 2', u']']",29 October 1983,21 December 1983,9,1.0,1,7
+SwanseaCity,"[u'Toshack, John', u'John Toshack', u'[', u']']",21 December 1983,4 March 1984,11,2.0,3,6
+SwanseaCity,"[u'Chappell, Les', u'Les Chappell', u'[', u'nb 2', u']']",4 March 1984,16 May 1984,12,3.0,2,7
+SwanseaCity,"[u'Appleton, Colin', u'Colin Appleton']",16 May 1984,6 December 1984,22,4.0,3,15
+SwanseaCity,"[u'Bond, John', u'John Bond']",16 December 1984,20 December 1985,54,15.0,11,28
+SwanseaCity,"[u'Hutchison, Tommy', u'Tommy Hutchison', u'[', u']']",21 December 1985,1 May 1986,23,6.0,7,10
+SwanseaCity,"[u'Yorath, Terry', u'Terry Yorath', u'[', u']']",12 July 1986,2 February 1989,139,58.0,35,46
+SwanseaCity,"[u'Evans, Ian', u'Ian Evans']",27 February 1989,13 March 1990,58,15.0,19,24
+SwanseaCity,"[u'Yorath, Terry', u'Terry Yorath']",15 March 1990,21 March 1991,51,15.0,10,26
+SwanseaCity,"[u'Burrows, Frank', u'Frank Burrows']",21 March 1991,31 July 1995,231,85.0,65,81
+SwanseaCity,"[u'Smith, Bobby', u'Bobby Smith']",1 August 1995,31 July 1996,49,12.0,14,23
+SwanseaCity,"[u'Cullis, Kevin', u'Kevin Cullis']",8 February 1996,14 February 1996,2,0.0,0,2
+SwanseaCity,"[u'Rimmer, Jimmy', u'Jimmy Rimmer']",14 February 1996,22 February 1996,2,0.0,1,1
+SwanseaCity,"[u'M\xf8lby, Jan', u'Jan M\xf8lby', u'[', u']']",22 February 1996,8 October 1997,80,31.0,16,33
+SwanseaCity,"[u'Adams, Micky', u'Micky Adams', u'[', u']']",9 October 1997,22 October 1997,3,0.0,0,3
+SwanseaCity,"[u'Cork, Alan', u'Alan Cork']",22 October 1997,30 June 1998,35,10.0,10,15
+SwanseaCity,"[u'Hollins, John', u'John Hollins']",1 July 1998,12 September 2001,170,63.0,47,60
+SwanseaCity,"[u'Addison, Colin', u'Colin Addison']",13 September 2001,7 March 2002,35,11.0,8,16
+SwanseaCity,"[u'Freestone, Roger', u'Roger Freestone', u'[', u'nb 3', u']']",8 March 2002,20 April 2002,8,1.0,2,5
+SwanseaCity,"[u'Cusack, Nick', u'Nick Cusack', u'[', u'nb 3', u']']",8 March 2002,19 September 2002,8,2.0,5,1
+SwanseaCity,"[u'Flynn, Brian', u'Brian Flynn']",19 September 2002,18 March 2004,82,28.0,22,32
+SwanseaCity,"[u'Curtis, Alan', u'Alan Curtis', u'[', u'nb 2', u']']",18 March 2004,5 April 2004,4,1.0,1,2
+SwanseaCity,"[u'Jackett, Kenny', u'Kenny Jackett']",5 April 2004,15 February 2007,156,69.0,40,47
+SwanseaCity,"[u'Nugent, Kevin', u'Kevin Nugent', u'[', u'nb 2', u']']",15 February 2007,24 February 2007,3,0.0,1,2
+SwanseaCity,"[u'Mart\xednez, Roberto', u'Roberto Mart\xednez']",24 February 2007,15 June 2009,126,63.0,37,26
+SwanseaCity,"[u'Sousa, Paulo', u'Paulo Sousa']",22 June 2009,5 July 2010,49,18.0,18,13
+SwanseaCity,"[u'Rodgers, Brendan', u'Brendan Rodgers']",16 July 2010,1 June 2012,96,43.0,20,33
+SwanseaCity,"[u'Laudrup, Michael', u'Michael Laudrup']",17 June 2012,4 February 2014,84,29.0,24,31
+SwanseaCity,"[u'Monk, Garry', u'Garry Monk']",4 February 2014,9 December 2015,74,28.0,16,30
+SwanseaCity,"[u'Curtis, Alan', u'Alan Curtis', u'[', u'nb 2', u']']",9 December 2015,18 January 2016,8,2.0,2,4
+SwanseaCity,"[u'Guidolin, Francesco', u'Francesco Guidolin']",18 January 2016,Present,0,0.0,0,0

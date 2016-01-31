@@ -1,30 +1,30 @@
-Name,From,To,Matches,Won,Drawn,Lost
-"[u'Ramsay, George', u'George Ramsay', u'[', u'5', u']']",August 1884,May 1926,"1,327",658,414,255
-"[u'Smith, W. J.', u'W. J. Smith', u'[', u'5', u']']",August 1926,May 1934,364,175,67,122
-"[u'McMullan, Jimmy', u'Jimmy McMullan']",June 1934,October 1936,55,17,15,23
-"[u'Hogan, Jimmy', u'Jimmy Hogan']", Summer 1936,September 1939,124,57,26,41
-"[u'Massie, Alex', u'Alex Massie']",August 1945,August 1950,189,76,46,67
-"[u'Martin, George', u'George Martin']",December 1950,August 1953,119,47,30,42
-"[u'Houghton, Eric', u'Eric Houghton']",September 1953,November 1958,250,88,65,97
-"[u'Mercer, Joe', u'Joe Mercer']",December 1958,July 1964,282,120,63,99
-"[u'Taylor, Dick', u'Dick Taylor']",July 1964,May 1967,144,51,22,71
-"[u'Cummings, Tommy', u'Tommy Cummings']",July 1967,November 1968,62,18,14,30
-"[u'Docherty, Tommy', u'Tommy Docherty']",December 1968,January 1970,46,13,16,17
-"[u'Crowe, Vic', u'Vic Crowe']",January 1970,May 1974,199,88,55,56
-"[u'Saunders, Ron', u'Ron Saunders']",June 1974,February 1982,353,157,98,98
-"[u'Barton, Tony', u'Tony Barton']",February 1982,June 1984,130,58,24,48
-"[u'Turner, Graham', u'Graham Turner']",July 1984,September 1986,105,33,29,43
-"[u'McNeill, Billy', u'Billy McNeill']",September 1986,May 1987,41,9,15,17
-"[u'Taylor, Graham', u'Graham Taylor']",May 1987,July 1990,142,65,35,42
-"[u'Venglo\u0161, Jozef', u'Jozef Venglo\u0161']",July 1990,May 1991,49,16,15,18
-"[u'Atkinson, Ron', u'Ron Atkinson']",July 1991,November 1994,178,77,45,56
-"[u'Little, Brian', u'Brian Little']",November 1994,February 1998,164,68,45,51
-"[u'Gregory, John', u'John Gregory']",February 1998,January 2002,190,82,52,56
-"[u'Taylor, Graham', u'Graham Taylor']",February 2002,May 2003,60,19,14,27
-"[u""O'Leary, David"", u""David O'Leary""]",May 2003,July 2006,131,47,35,49
-"[u""O'Neill, Martin"", u""Martin O'Neill""]",August 2006,August 2010,190,80,60,50
-"[u'Houllier, G\xe9rard', u'G\xe9rard Houllier']",September 2010,June 2011,36,14,8,14
-"[u'McLeish, Alex', u'Alex McLeish']",June 2011,May 2012,42,9,17,16
-"[u'Lambert, Paul', u'Paul Lambert']",June 2012,February 2015,115,34,26,55
-"[u'Sherwood, Tim', u'Tim Sherwood']",February 2015,October 2015,28,11,2,15
-"[u'Garde, Remi', u'Remi Garde']",November 2015,[],12,1,6,5
+Team,Name,From,To,Matches,Won,Drawn,Lost
+AstonVilla,"[u'Ramsay, George', u'George Ramsay', u'[', u'5', u']']",August 1884,May 1926,"1,327",658,414,255
+AstonVilla,"[u'Smith, W. J.', u'W. J. Smith', u'[', u'5', u']']",August 1926,May 1934,364,175,67,122
+AstonVilla,"[u'McMullan, Jimmy', u'Jimmy McMullan']",June 1934,October 1936,55,17,15,23
+AstonVilla,"[u'Hogan, Jimmy', u'Jimmy Hogan']", Summer 1936,September 1939,124,57,26,41
+AstonVilla,"[u'Massie, Alex', u'Alex Massie']",August 1945,August 1950,189,76,46,67
+AstonVilla,"[u'Martin, George', u'George Martin']",December 1950,August 1953,119,47,30,42
+AstonVilla,"[u'Houghton, Eric', u'Eric Houghton']",September 1953,November 1958,250,88,65,97
+AstonVilla,"[u'Mercer, Joe', u'Joe Mercer']",December 1958,July 1964,282,120,63,99
+AstonVilla,"[u'Taylor, Dick', u'Dick Taylor']",July 1964,May 1967,144,51,22,71
+AstonVilla,"[u'Cummings, Tommy', u'Tommy Cummings']",July 1967,November 1968,62,18,14,30
+AstonVilla,"[u'Docherty, Tommy', u'Tommy Docherty']",December 1968,January 1970,46,13,16,17
+AstonVilla,"[u'Crowe, Vic', u'Vic Crowe']",January 1970,May 1974,199,88,55,56
+AstonVilla,"[u'Saunders, Ron', u'Ron Saunders']",June 1974,February 1982,353,157,98,98
+AstonVilla,"[u'Barton, Tony', u'Tony Barton']",February 1982,June 1984,130,58,24,48
+AstonVilla,"[u'Turner, Graham', u'Graham Turner']",July 1984,September 1986,105,33,29,43
+AstonVilla,"[u'McNeill, Billy', u'Billy McNeill']",September 1986,May 1987,41,9,15,17
+AstonVilla,"[u'Taylor, Graham', u'Graham Taylor']",May 1987,July 1990,142,65,35,42
+AstonVilla,"[u'Venglo\u0161, Jozef', u'Jozef Venglo\u0161']",July 1990,May 1991,49,16,15,18
+AstonVilla,"[u'Atkinson, Ron', u'Ron Atkinson']",July 1991,November 1994,178,77,45,56
+AstonVilla,"[u'Little, Brian', u'Brian Little']",November 1994,February 1998,164,68,45,51
+AstonVilla,"[u'Gregory, John', u'John Gregory']",February 1998,January 2002,190,82,52,56
+AstonVilla,"[u'Taylor, Graham', u'Graham Taylor']",February 2002,May 2003,60,19,14,27
+AstonVilla,"[u""O'Leary, David"", u""David O'Leary""]",May 2003,July 2006,131,47,35,49
+AstonVilla,"[u""O'Neill, Martin"", u""Martin O'Neill""]",August 2006,August 2010,190,80,60,50
+AstonVilla,"[u'Houllier, G\xe9rard', u'G\xe9rard Houllier']",September 2010,June 2011,36,14,8,14
+AstonVilla,"[u'McLeish, Alex', u'Alex McLeish']",June 2011,May 2012,42,9,17,16
+AstonVilla,"[u'Lambert, Paul', u'Paul Lambert']",June 2012,February 2015,115,34,26,55
+AstonVilla,"[u'Sherwood, Tim', u'Tim Sherwood']",February 2015,October 2015,28,11,2,15
+AstonVilla,"[u'Garde, Remi', u'Remi Garde']",November 2015,[],12,1,6,5

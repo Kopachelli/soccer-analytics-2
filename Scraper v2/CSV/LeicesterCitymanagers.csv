@@ -1,52 +1,52 @@
-Name,From,To,P,W,D,L
-Peter Hodge,6 September 1919,May 1926,310,125,84,101
-Willie Orr,July 1926,January 1932,242,102,50,90
-Board,January 1932,March 1932,10,2,3,5
-Peter Hodge,March 1932,1 August 1934,100,34,26,40
-Board,1 August 1934,17 October 1934,10,2,4,4
-Arthur Lochhead,17 October 1934,2 September 1936,81,33,15,33
-Board,2 September 1936,October 1936,8,1,2,5
-Frank Womack,October 1936,May 1939,123,48,29,46
-Tom Bromilow,August 1939,May 1945,0,0,0,0
-Tom Mather,August 1945,March 1946,2,0,1,1
-Johnny Duncan,March 1946,11 October 1949,156,56,42,58
-Board,11 October 1949,December 1949,7,1,4,2
-Norman Bullock,December 1949,February 1955,232,91,64,77
-Board,February 1955,May 1955,15,7,3,5
-Dave Halliday,June 1955,November 1958,146,64,27,55
-Matt Gillies,8 November 1958,30 November 1968,508,201,123,184
-Frank O'Farrell,December 1968,6 June 1971,134,62,27,55
-Jimmy Bloomfield,23 June 1971,23 May 1977,285,85,104,96
-Frank McLintock,9 June 1977,5 April 1978,40,5,12,23
-Ian MacFarlane,5 April 1978,24 May 1978,5,1,0,4
-Jock Wallace,24 May 1978,12 July 1982,189,69,51,69
-Gordon Milne,2 August 1982,3 June 1986,184,64,41,79
-"[u'Gordon Milne', u'\n', u'Bryan Hamilton']",June 1986,May 1987,46,13,9,24
-Bryan Hamilton,May 1987,11 December 1987,27,10,6,11
-David Pleat,24 December 1987,29 January 1991,157,49,45,63
-Gordon Lee,30 January 1991,29 May 1991,20,7,2,11
-Brian Little,30 May 1991,22 November 1994,188,81,45,62
-"[u'Kevin MacDonald', u'\n', u'Tony McAndrew']",22 November 1994,14 December 1994,3,0,1,2
-Mark McGhee,14 December 1994,7 December 1995,51,16,14,21
-"[u'David Nish', u'\n', u'Chris Turner', u'\n', u'Garry Parker', u'\n', u'Steve Walsh']",7 December 1995,21 December 1995,2,1,0,1
-Martin O'Neill,21 December 1995,[],222,85,67,70
-Peter Taylor,[],30 September 2001,54,19,9,26
-Garry Parker,30 September 2001,10 October 2001,1,0,0,1
-Dave Bassett,10 October 2001,6 April 2002,28,4,8,16
-Micky Adams,7 April 2002,11 October 2004,111,41,38,32
-"[u'Dave Bassett', u'\n', u'Howard Wilkinson']",11 October 2004,30 October 2004,4,0,4,0
-Craig Levein,1 November 2004,25 January 2006,70,20,25,25
-Rob Kelly,13 February 2006,11 April 2007,63,21,19,23
-Nigel Worthington,11 April 2007,7 May 2007,5,2,0,3
-Martin Allen,25 May 2007,29 August 2007,4,2,1,1
-"[u'Jon Rudkin', u'\n', u'Steve Beaglehole', u'\n', u'Mike Stowell']",30 August 2007,13 September 2007,1,0,1,0
-Gary Megson,13 September 2007,24 October 2007,9,3,4,2
-"[u'Frank Burrows', u'\n', u'Gerry Taggart']",24 October 2007,22 November 2007,5,1,2,2
-Ian Holloway,22 November 2007,23 May 2008,32,9,8,15
-Nigel Pearson,22 June 2008,29 June 2010,107,55,30,22
-Paulo Sousa,7 July 2010,1 October 2010,12,4,2,6
-"[u'Chris Powell', u'\n', u'Mike Stowell']",1 October 2010,4 October 2010,1,1,0,0
-Sven-Göran Eriksson,4 October 2010,24 October 2011,55,24,14,17
-"[u'Jon Rudkin', u'\n', u'Steve Beaglehole', u'\n', u'Mike Stowell']",24 October 2011,15 November 2011,3,1,0,2
-Nigel Pearson,15 November 2011,30 June 2015,175,80,37,58
-Claudio Ranieri,13 July 2015,Present,20,13,6,1
+Team,Name,From,To,P,W,D,L
+LeicesterCity,Peter Hodge,6 September 1919,May 1926,310,125,84,101
+LeicesterCity,Willie Orr,July 1926,January 1932,242,102,50,90
+LeicesterCity,Board,January 1932,March 1932,10,2,3,5
+LeicesterCity,Peter Hodge,March 1932,1 August 1934,100,34,26,40
+LeicesterCity,Board,1 August 1934,17 October 1934,10,2,4,4
+LeicesterCity,Arthur Lochhead,17 October 1934,2 September 1936,81,33,15,33
+LeicesterCity,Board,2 September 1936,October 1936,8,1,2,5
+LeicesterCity,Frank Womack,October 1936,May 1939,123,48,29,46
+LeicesterCity,Tom Bromilow,August 1939,May 1945,0,0,0,0
+LeicesterCity,Tom Mather,August 1945,March 1946,2,0,1,1
+LeicesterCity,Johnny Duncan,March 1946,11 October 1949,156,56,42,58
+LeicesterCity,Board,11 October 1949,December 1949,7,1,4,2
+LeicesterCity,Norman Bullock,December 1949,February 1955,232,91,64,77
+LeicesterCity,Board,February 1955,May 1955,15,7,3,5
+LeicesterCity,Dave Halliday,June 1955,November 1958,146,64,27,55
+LeicesterCity,Matt Gillies,8 November 1958,30 November 1968,508,201,123,184
+LeicesterCity,Frank O'Farrell,December 1968,6 June 1971,134,62,27,55
+LeicesterCity,Jimmy Bloomfield,23 June 1971,23 May 1977,285,85,104,96
+LeicesterCity,Frank McLintock,9 June 1977,5 April 1978,40,5,12,23
+LeicesterCity,Ian MacFarlane,5 April 1978,24 May 1978,5,1,0,4
+LeicesterCity,Jock Wallace,24 May 1978,12 July 1982,189,69,51,69
+LeicesterCity,Gordon Milne,2 August 1982,3 June 1986,184,64,41,79
+LeicesterCity,"[u'Gordon Milne', u'\n', u'Bryan Hamilton']",June 1986,May 1987,46,13,9,24
+LeicesterCity,Bryan Hamilton,May 1987,11 December 1987,27,10,6,11
+LeicesterCity,David Pleat,24 December 1987,29 January 1991,157,49,45,63
+LeicesterCity,Gordon Lee,30 January 1991,29 May 1991,20,7,2,11
+LeicesterCity,Brian Little,30 May 1991,22 November 1994,188,81,45,62
+LeicesterCity,"[u'Kevin MacDonald', u'\n', u'Tony McAndrew']",22 November 1994,14 December 1994,3,0,1,2
+LeicesterCity,Mark McGhee,14 December 1994,7 December 1995,51,16,14,21
+LeicesterCity,"[u'David Nish', u'\n', u'Chris Turner', u'\n', u'Garry Parker', u'\n', u'Steve Walsh']",7 December 1995,21 December 1995,2,1,0,1
+LeicesterCity,Martin O'Neill,21 December 1995,[],222,85,67,70
+LeicesterCity,Peter Taylor,[],30 September 2001,54,19,9,26
+LeicesterCity,Garry Parker,30 September 2001,10 October 2001,1,0,0,1
+LeicesterCity,Dave Bassett,10 October 2001,6 April 2002,28,4,8,16
+LeicesterCity,Micky Adams,7 April 2002,11 October 2004,111,41,38,32
+LeicesterCity,"[u'Dave Bassett', u'\n', u'Howard Wilkinson']",11 October 2004,30 October 2004,4,0,4,0
+LeicesterCity,Craig Levein,1 November 2004,25 January 2006,70,20,25,25
+LeicesterCity,Rob Kelly,13 February 2006,11 April 2007,63,21,19,23
+LeicesterCity,Nigel Worthington,11 April 2007,7 May 2007,5,2,0,3
+LeicesterCity,Martin Allen,25 May 2007,29 August 2007,4,2,1,1
+LeicesterCity,"[u'Jon Rudkin', u'\n', u'Steve Beaglehole', u'\n', u'Mike Stowell']",30 August 2007,13 September 2007,1,0,1,0
+LeicesterCity,Gary Megson,13 September 2007,24 October 2007,9,3,4,2
+LeicesterCity,"[u'Frank Burrows', u'\n', u'Gerry Taggart']",24 October 2007,22 November 2007,5,1,2,2
+LeicesterCity,Ian Holloway,22 November 2007,23 May 2008,32,9,8,15
+LeicesterCity,Nigel Pearson,22 June 2008,29 June 2010,107,55,30,22
+LeicesterCity,Paulo Sousa,7 July 2010,1 October 2010,12,4,2,6
+LeicesterCity,"[u'Chris Powell', u'\n', u'Mike Stowell']",1 October 2010,4 October 2010,1,1,0,0
+LeicesterCity,Sven-Göran Eriksson,4 October 2010,24 October 2011,55,24,14,17
+LeicesterCity,"[u'Jon Rudkin', u'\n', u'Steve Beaglehole', u'\n', u'Mike Stowell']",24 October 2011,15 November 2011,3,1,0,2
+LeicesterCity,Nigel Pearson,15 November 2011,30 June 2015,175,80,37,58
+LeicesterCity,Claudio Ranieri,13 July 2015,Present,20,13,6,1

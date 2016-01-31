@@ -1,48 +1,48 @@
-Name,From,To,M,W,D,L
-"Bowman, John",1-Aug-05,31-Jul-07,78,31,23,24
-"McEwen, James",1-Aug-07,31-May-08,43,13,10,20
-"Turner, Arthur",1-Aug-09,31-May-10,86,27,22,37
-"Stansfield, Bert",1-Aug-10,31-May-15,248,78,75,95
-"Buckley, Frank",1-Aug-19,1-Jul-20,43,15,11,17
-"O'Hagan, Charles",1-Jul-20,1-Jan-21,21,4,9,8
-"Gosnell, Albert",1-Jan-21,28-Feb-26,223,59,79,95
-"Stansfield, Bert",1-Mar-26,1-Nov-26,26,8,8,10
-"Potter, Cecil",1-Nov-26,1-Jan-29,101,30,26,45
-"Kerr, James",1-Apr-29,28-Feb-33,168,65,43,60
-"Parker, Tom","[u'1 March 1933', u'\n1 May 1955']","[u'1 February 1937', u'\n31 March 1957']",271,104,69,98
-"Young, Bob","[u'1 February 1937', u'\n1 September 1939']","[u'31 December 1938', u'\n31 May 1946']",78,26,14,38
-"Jewell, Jimmy",1-Jan-39,1-Sep-39,20,6,4,10
-"Lochhead, Duggie",1-Dec-45,1-Mar-50,104,42,28,34
-"Spiers, Cyril",1-Jun-46,1-Dec-47,65,15,12,38
-"Low, Norman",1-May-50,30-Apr-55,258,129,56,73
-"Macaulay, Archie",1-Apr-57,1-Oct-61,224,105,60,59
-"Reid, Willie",1-Dec-61,1-May-62,31,13,6,12
-"Swindin, George",1-May-62,30-Nov-62,20,10,5,5
-"Ashman, Ron",1-Dec-62,31-May-66,162,59,39,64
-"Morgan, Lol",1-Jun-66,1-May-69,127,45,47,35
-"Saunders, Ron",1-Jul-69,16-Nov-73,221,84,61,76
-"Bond, John",27-Nov-73,14-Oct-80,340,105,114,121
-"Brown, Ken",16-Oct-80,9-Nov-87,367,150,93,124
-"Stringer, Dave",9-Nov-87,1-May-92,229,89,58,82
-"Williams, David",1-May-92,1-Jun-92,1,0,0,1
-"Walker, Mike",1-Jun-92,6-Jan-94,80,36,20,24
-"Deehan, John",12-Jan-94,"[u'9 April 1995', u'[', u'89', u']']",58,13,22,23
-"Megson, Gary",9-Apr-95,14-Jun-95,5,0,1,4
-"O'Neill, Martin","[u'14 June 1995', u'[', u'90', u']']","[u'17 December 1995', u'[', u'91', u']']",26,12,9,5
-"Franklin, Paul",17-Dec-95,20-Dec-95,1,0,0,1
-"Megson, Gary",21-Dec-95,21-Jun-96,27,5,9,13
-"Walker, Mike",1-Aug-96,30-Apr-98,98,32,26,40
-"Faulkner, John",30-Apr-98,12-Jun-98,1,1,0,0
-"Rioch, Bruce",12-Jun-98,13-Mar-00,93,30,31,32
-"Hamilton, Bryan",5-Apr-00,4-Dec-00,35,10,10,15
-"Worthington, Nigel",4-Dec-00,2-Oct-06,280,114,62,104
-"Hunter, Martin",2-Oct-06,16-Oct-06,1,0,1,0
-"Grant, Peter",16-Oct-06,9-Oct-07,53,18,11,24
-"Duffy, Jim",9-Oct-07,30-Oct-07,3,0,0,3
-"Roeder, Glenn",30-Oct-07,16-Jan-09,65,20,15,30
-"Gunn, Bryan",15-Jan-09,14-Aug-09,21,6,5,10
-"Butterworth, Ian",14-Aug-09,18-Aug-09,2,0,1,1
-"Lambert, Paul",18-Aug-09,1-Jun-12,142,70,35,37
-"Hughton, Chris",7-Jun-12,6-Apr-14,82,24,23,35
-"Adams, Neil",6-Apr-14,5-Jan-15,32,11,8,13
-"Neil, Alex",9-Jan-15,Present,18,13,3,2
+Team,Name,From,To,M,W,D,L
+NorwichCity,"Bowman, John",1-Aug-05,31-Jul-07,78,31,23,24
+NorwichCity,"McEwen, James",1-Aug-07,31-May-08,43,13,10,20
+NorwichCity,"Turner, Arthur",1-Aug-09,31-May-10,86,27,22,37
+NorwichCity,"Stansfield, Bert",1-Aug-10,31-May-15,248,78,75,95
+NorwichCity,"Buckley, Frank",1-Aug-19,1-Jul-20,43,15,11,17
+NorwichCity,"O'Hagan, Charles",1-Jul-20,1-Jan-21,21,4,9,8
+NorwichCity,"Gosnell, Albert",1-Jan-21,28-Feb-26,223,59,79,95
+NorwichCity,"Stansfield, Bert",1-Mar-26,1-Nov-26,26,8,8,10
+NorwichCity,"Potter, Cecil",1-Nov-26,1-Jan-29,101,30,26,45
+NorwichCity,"Kerr, James",1-Apr-29,28-Feb-33,168,65,43,60
+NorwichCity,"Parker, Tom","[u'1 March 1933', u'\n1 May 1955']","[u'1 February 1937', u'\n31 March 1957']",271,104,69,98
+NorwichCity,"Young, Bob","[u'1 February 1937', u'\n1 September 1939']","[u'31 December 1938', u'\n31 May 1946']",78,26,14,38
+NorwichCity,"Jewell, Jimmy",1-Jan-39,1-Sep-39,20,6,4,10
+NorwichCity,"Lochhead, Duggie",1-Dec-45,1-Mar-50,104,42,28,34
+NorwichCity,"Spiers, Cyril",1-Jun-46,1-Dec-47,65,15,12,38
+NorwichCity,"Low, Norman",1-May-50,30-Apr-55,258,129,56,73
+NorwichCity,"Macaulay, Archie",1-Apr-57,1-Oct-61,224,105,60,59
+NorwichCity,"Reid, Willie",1-Dec-61,1-May-62,31,13,6,12
+NorwichCity,"Swindin, George",1-May-62,30-Nov-62,20,10,5,5
+NorwichCity,"Ashman, Ron",1-Dec-62,31-May-66,162,59,39,64
+NorwichCity,"Morgan, Lol",1-Jun-66,1-May-69,127,45,47,35
+NorwichCity,"Saunders, Ron",1-Jul-69,16-Nov-73,221,84,61,76
+NorwichCity,"Bond, John",27-Nov-73,14-Oct-80,340,105,114,121
+NorwichCity,"Brown, Ken",16-Oct-80,9-Nov-87,367,150,93,124
+NorwichCity,"Stringer, Dave",9-Nov-87,1-May-92,229,89,58,82
+NorwichCity,"Williams, David",1-May-92,1-Jun-92,1,0,0,1
+NorwichCity,"Walker, Mike",1-Jun-92,6-Jan-94,80,36,20,24
+NorwichCity,"Deehan, John",12-Jan-94,"[u'9 April 1995', u'[', u'89', u']']",58,13,22,23
+NorwichCity,"Megson, Gary",9-Apr-95,14-Jun-95,5,0,1,4
+NorwichCity,"O'Neill, Martin","[u'14 June 1995', u'[', u'90', u']']","[u'17 December 1995', u'[', u'91', u']']",26,12,9,5
+NorwichCity,"Franklin, Paul",17-Dec-95,20-Dec-95,1,0,0,1
+NorwichCity,"Megson, Gary",21-Dec-95,21-Jun-96,27,5,9,13
+NorwichCity,"Walker, Mike",1-Aug-96,30-Apr-98,98,32,26,40
+NorwichCity,"Faulkner, John",30-Apr-98,12-Jun-98,1,1,0,0
+NorwichCity,"Rioch, Bruce",12-Jun-98,13-Mar-00,93,30,31,32
+NorwichCity,"Hamilton, Bryan",5-Apr-00,4-Dec-00,35,10,10,15
+NorwichCity,"Worthington, Nigel",4-Dec-00,2-Oct-06,280,114,62,104
+NorwichCity,"Hunter, Martin",2-Oct-06,16-Oct-06,1,0,1,0
+NorwichCity,"Grant, Peter",16-Oct-06,9-Oct-07,53,18,11,24
+NorwichCity,"Duffy, Jim",9-Oct-07,30-Oct-07,3,0,0,3
+NorwichCity,"Roeder, Glenn",30-Oct-07,16-Jan-09,65,20,15,30
+NorwichCity,"Gunn, Bryan",15-Jan-09,14-Aug-09,21,6,5,10
+NorwichCity,"Butterworth, Ian",14-Aug-09,18-Aug-09,2,0,1,1
+NorwichCity,"Lambert, Paul",18-Aug-09,1-Jun-12,142,70,35,37
+NorwichCity,"Hughton, Chris",7-Jun-12,6-Apr-14,82,24,23,35
+NorwichCity,"Adams, Neil",6-Apr-14,5-Jan-15,32,11,8,13
+NorwichCity,"Neil, Alex",9-Jan-15,Present,18,13,3,2

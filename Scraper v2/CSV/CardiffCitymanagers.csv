@@ -1,45 +1,45 @@
-Name,From,To,P,W,D,L,GF,GA
-"[u'McDougall, Davy', u'Davy McDougall']",1 August 1910,1 May 1911,[],[],[],[],[],[]
-"[u'Stewart, Fred', u'Fred Stewart']",1 May 1911,1 May 1933,605,244,136,225,[],[]
-"[u'Wilson, Bartley', u'Bartley Wilson']",1 May 1933,1 February 1934,28,8,4,16,[],[]
-"[u'Watts-Jones, Ben', u'Ben Watts-Jones']",1 February 1934,1 April 1937,141,41,29,71,[],[]
-"[u'Jennings, Billy', u'Billy Jennings']",1 April 1937,1 April 1939,92,35,23,34,[],[]
-"[u'Spiers, Cyril', u'Cyril Spiers']",1 April 1939,1 April 1946,10,3,3,4,[],[]
-"[u'McCandless, Billy', u'Billy McCandless']",1 June 1946,1 November 1948,100,53,21,26,[],[]
-"[u'Spiers, Cyril', u'Cyril Spiers']",1 April 1948,1 April 1954,265,107,73,85,[],[]
-"[u'Morris, Trevor', u'Trevor Morris']",1 April 1954,31 August 1958,186,59,40,87,[],[]
-"[u'Jones, Bill', u'Bill Jones']",1 September 1958,30 September 1962,190,73,49,68,[],[]
-"[u'Swindin, George', u'George Swindin']",1 October 1962,1 May 1964,71,25,16,30,[],[]
-"[u'Scoular, Jimmy', u'Jimmy Scoular']",1 June 1964,7 November 1973,427,143,117,167,[],[]
-"[u'Clayton, Lew', u'Lew Clayton', u'*']",7 November 1973,13 November 1973,[],[],[],[],[],[]
-"[u""O'Farrell, Frank"", u""Frank O'Farrell""]",13 November 1973,30 April 1974,27,8,10,9,[],[]
-"[u'Andrews, Jimmy', u'Jimmy Andrews']",1 May 1974,6 November 1978,190,63,51,76,[],[]
-"[u'Morgan, Richie', u'Richie Morgan']",1 November 1978,1 March 1981,105,38,24,43,[],[]
-"[u'Williams, Graham', u'Graham Williams']",November 1981,February 1982,15,4,2,9,[],[]
-"[u'Ashurst, Len', u'Len Ashurst']",March 1982,March 1984,92,41,17,34,[],[]
-"[u'Mullen, Jimmy', u'Jimmy Mullen', u'*', u'1']",March 1984,May 1984,[],[],[],[],[],[]
-"[u'Goodfellow, Jimmy', u'Jimmy Goodfellow', u'\u2020', u'1']",March 1984,23 September 1984,23,6,4,13,[],[]
-"[u'Durban, Alan', u'Alan Durban']",23 September 1984,21 May 1986,87,22,17,48,[],[]
-"[u'Mullen, Jimmy', u'Jimmy Mullen', u'*']",May 1986,May 1986,[],[],[],[],[],[]
-"[u'Burrows, Frank', u'Frank Burrows']",May 1986,August 1989,166,64,48,54,[],[]
-"[u'Ashurst, Len', u'Len Ashurst']",August 1989,May 1991,98,30,32,36,[],[]
-"[u'May, Eddie', u'Eddie May']",July 1991,November 1994,170,66,46,58,[],[]
-"[u'Yorath, Terry', u'Terry Yorath']",November 1994,March 1995,41,8,9,24,[],[]
-"[u'May, Eddie', u'Eddie May']",March 1995,May 1995,8,2,2,4,[],[]
-"[u'Hibbitt, Kenny', u'Kenny Hibbitt']",May 1995,February 1996,[],[],[],[],[],[]
-"[u'Neal, Phil', u'Phil Neal']",February 1996,1 August 1996,[],[],[],[],[],[]
-"[u'Hibbitt, Kenny', u'Kenny Hibbitt', u'*']",1 August 1996,11 November 1996,19,9,4,6,[],[]
-"[u'Osman, Russell', u'Russell Osman']",11 November 1996,23 January 1998,67,22,21,24,[],[]
-"[u'Hibbitt, Kenny', u'Kenny Hibbitt', u'*']",23 January 1998,16 February 1998,6,0,5,1,[],[]
-"[u'Burrows, Frank', u'Frank Burrows']",16 February 1998,1 February 2000,107,36,34,37,[],[]
-"[u'Ayre, Billy', u'Billy Ayre']",2 February 2000,14 August 2000,19,5,7,7,[],[]
-"[u'Gould, Bobby', u'Bobby Gould']",14 August 2000,3 July 2001,52,24,15,13,[],[]
-"[u'Cork, Alan', u'Alan Cork']",3 July 2001,17 February 2002,40,17,11,12,[],[]
-"[u'Lawrence, Lennie', u'Lennie Lawrence']",18 February 2002,25 May 2005,174,72,50,52,260,197
-"[u'Jones, Dave', u'Dave Jones']",25 May 2005,30 May 2011,315,132,84,99,450,385
-"[u'Mackay, Malky', u'Malky Mackay']",17 June 2011,27 December 2013,125,54,37,34,175,156
-"[u'Kerslake, David', u'David Kerslake', u'*']",27 December 2013,2 January 2014,2,0,1,1,2,4
-"[u'Solskj\xe6r, Ole Gunnar', u'Ole Gunnar Solskj\xe6r']",2 January 2014,18 September 2014,30,9,5,16,32,56
-"[u'Gabbidon, Danny', u'Danny Gabbidon', u'*', u'2']",18 September 2014,5 October 2014,5,1,2,2,5,8
-"[u'Young, Scott', u'Scott Young', u'*', u'2']",18 September 2014,5 October 2014,5,1,2,2,5,8
-"[u'Slade, Russell', u'Russell Slade']",5 October 2014,present,51,20,15,16,65,63
+Team,Name,From,To,P,W,D,L,GF,GA
+CardiffCity,"[u'McDougall, Davy', u'Davy McDougall']",1 August 1910,1 May 1911,[],[],[],[],[],[]
+CardiffCity,"[u'Stewart, Fred', u'Fred Stewart']",1 May 1911,1 May 1933,605,244,136,225,[],[]
+CardiffCity,"[u'Wilson, Bartley', u'Bartley Wilson']",1 May 1933,1 February 1934,28,8,4,16,[],[]
+CardiffCity,"[u'Watts-Jones, Ben', u'Ben Watts-Jones']",1 February 1934,1 April 1937,141,41,29,71,[],[]
+CardiffCity,"[u'Jennings, Billy', u'Billy Jennings']",1 April 1937,1 April 1939,92,35,23,34,[],[]
+CardiffCity,"[u'Spiers, Cyril', u'Cyril Spiers']",1 April 1939,1 April 1946,10,3,3,4,[],[]
+CardiffCity,"[u'McCandless, Billy', u'Billy McCandless']",1 June 1946,1 November 1948,100,53,21,26,[],[]
+CardiffCity,"[u'Spiers, Cyril', u'Cyril Spiers']",1 April 1948,1 April 1954,265,107,73,85,[],[]
+CardiffCity,"[u'Morris, Trevor', u'Trevor Morris']",1 April 1954,31 August 1958,186,59,40,87,[],[]
+CardiffCity,"[u'Jones, Bill', u'Bill Jones']",1 September 1958,30 September 1962,190,73,49,68,[],[]
+CardiffCity,"[u'Swindin, George', u'George Swindin']",1 October 1962,1 May 1964,71,25,16,30,[],[]
+CardiffCity,"[u'Scoular, Jimmy', u'Jimmy Scoular']",1 June 1964,7 November 1973,427,143,117,167,[],[]
+CardiffCity,"[u'Clayton, Lew', u'Lew Clayton', u'*']",7 November 1973,13 November 1973,[],[],[],[],[],[]
+CardiffCity,"[u""O'Farrell, Frank"", u""Frank O'Farrell""]",13 November 1973,30 April 1974,27,8,10,9,[],[]
+CardiffCity,"[u'Andrews, Jimmy', u'Jimmy Andrews']",1 May 1974,6 November 1978,190,63,51,76,[],[]
+CardiffCity,"[u'Morgan, Richie', u'Richie Morgan']",1 November 1978,1 March 1981,105,38,24,43,[],[]
+CardiffCity,"[u'Williams, Graham', u'Graham Williams']",November 1981,February 1982,15,4,2,9,[],[]
+CardiffCity,"[u'Ashurst, Len', u'Len Ashurst']",March 1982,March 1984,92,41,17,34,[],[]
+CardiffCity,"[u'Mullen, Jimmy', u'Jimmy Mullen', u'*', u'1']",March 1984,May 1984,[],[],[],[],[],[]
+CardiffCity,"[u'Goodfellow, Jimmy', u'Jimmy Goodfellow', u'\u2020', u'1']",March 1984,23 September 1984,23,6,4,13,[],[]
+CardiffCity,"[u'Durban, Alan', u'Alan Durban']",23 September 1984,21 May 1986,87,22,17,48,[],[]
+CardiffCity,"[u'Mullen, Jimmy', u'Jimmy Mullen', u'*']",May 1986,May 1986,[],[],[],[],[],[]
+CardiffCity,"[u'Burrows, Frank', u'Frank Burrows']",May 1986,August 1989,166,64,48,54,[],[]
+CardiffCity,"[u'Ashurst, Len', u'Len Ashurst']",August 1989,May 1991,98,30,32,36,[],[]
+CardiffCity,"[u'May, Eddie', u'Eddie May']",July 1991,November 1994,170,66,46,58,[],[]
+CardiffCity,"[u'Yorath, Terry', u'Terry Yorath']",November 1994,March 1995,41,8,9,24,[],[]
+CardiffCity,"[u'May, Eddie', u'Eddie May']",March 1995,May 1995,8,2,2,4,[],[]
+CardiffCity,"[u'Hibbitt, Kenny', u'Kenny Hibbitt']",May 1995,February 1996,[],[],[],[],[],[]
+CardiffCity,"[u'Neal, Phil', u'Phil Neal']",February 1996,1 August 1996,[],[],[],[],[],[]
+CardiffCity,"[u'Hibbitt, Kenny', u'Kenny Hibbitt', u'*']",1 August 1996,11 November 1996,19,9,4,6,[],[]
+CardiffCity,"[u'Osman, Russell', u'Russell Osman']",11 November 1996,23 January 1998,67,22,21,24,[],[]
+CardiffCity,"[u'Hibbitt, Kenny', u'Kenny Hibbitt', u'*']",23 January 1998,16 February 1998,6,0,5,1,[],[]
+CardiffCity,"[u'Burrows, Frank', u'Frank Burrows']",16 February 1998,1 February 2000,107,36,34,37,[],[]
+CardiffCity,"[u'Ayre, Billy', u'Billy Ayre']",2 February 2000,14 August 2000,19,5,7,7,[],[]
+CardiffCity,"[u'Gould, Bobby', u'Bobby Gould']",14 August 2000,3 July 2001,52,24,15,13,[],[]
+CardiffCity,"[u'Cork, Alan', u'Alan Cork']",3 July 2001,17 February 2002,40,17,11,12,[],[]
+CardiffCity,"[u'Lawrence, Lennie', u'Lennie Lawrence']",18 February 2002,25 May 2005,174,72,50,52,260,197
+CardiffCity,"[u'Jones, Dave', u'Dave Jones']",25 May 2005,30 May 2011,315,132,84,99,450,385
+CardiffCity,"[u'Mackay, Malky', u'Malky Mackay']",17 June 2011,27 December 2013,125,54,37,34,175,156
+CardiffCity,"[u'Kerslake, David', u'David Kerslake', u'*']",27 December 2013,2 January 2014,2,0,1,1,2,4
+CardiffCity,"[u'Solskj\xe6r, Ole Gunnar', u'Ole Gunnar Solskj\xe6r']",2 January 2014,18 September 2014,30,9,5,16,32,56
+CardiffCity,"[u'Gabbidon, Danny', u'Danny Gabbidon', u'*', u'2']",18 September 2014,5 October 2014,5,1,2,2,5,8
+CardiffCity,"[u'Young, Scott', u'Scott Young', u'*', u'2']",18 September 2014,5 October 2014,5,1,2,2,5,8
+CardiffCity,"[u'Slade, Russell', u'Russell Slade']",5 October 2014,present,51,20,15,16,65,63

@@ -1,25 +1,25 @@
-Name,From,To,P,W,D,L,GF,GA
-"Albut, A. H.",1892,1900,(n/a),(n/a),(n/a),(n/a),(n/a),(n/a)
-"West, James",1900,Sep-03,113,46,20,47,159,147
-"Mangnall, Ernest",10-Oct-03,9-Sep-12,373,202,76,95,700,476
-"Wallworth, T. J.",9-Sep-12,20-Oct-12,6,3,2,1,11,7
-"Bentley, John",28-Oct-12,28-Dec-14,82,36,16,30,127,110
-"Robson, Jack",28-Dec-14,31-Oct-21,139,41,42,56,183,207
-"Chapman, John",31-Oct-21,8-Oct-26,221,86,58,77,287,274
-"Hilditch, Lal",8-Oct-26,13-Apr-27,33,10,10,13,38,47
-"Bamlett, Herbert",13-Apr-27,9-Nov-31,183,57,42,84,280,374
-"Crickmer, Walter",9-Nov-31,13-Jul-32,43,17,8,18,72,76
-"Duncan, Scott",13-Jul-32,7-Nov-37,235,92,53,90,371,362
-"Crickmer, Walter",9-Nov-37,15-Feb-45,76,30,24,22,131,112
-"Busby, Matt",1-Oct-45,4-Jun-69,"1,120",565,263,292,"2,286","1,536"
-"Murphy, Jimmy",Feb-58,Jun-58,22,5,7,10,27,42
-"McGuinness, Wilf",4-Jun-69,29-Dec-70,87,32,32,23,127,111
-"Busby, Matt",29-Dec-70,8-Jun-71,21,11,3,7,38,30
-"OFarrell, Frank",8-Jun-71,19-Dec-72,81,30,24,27,115,111
-"Docherty, Tommy",22-Dec-72,4-Jul-77,228,107,56,65,333,252
-"Sexton, Dave",14-Jul-77,30-Apr-81,201,81,64,56,290,240
-"Atkinson, Ron",9-Jun-81,6-Nov-86,292,146,79,67,461,266
-"Ferguson, Alex",6-Nov-86,19-May-13,"1,500",895,338,267,"2,769","1,365"
-"Moyes, David",1-Jul-13,22-Apr-14,51,27,9,15,86,54
-"Giggs, Ryan",22-Apr-14,11-May-14,4,2,1,1,8,3
-"Gaal, Louis van",16-Jul-14,Present,77,39,19,19,114,70
+Team,Name,From,To,P,W,D,L,GF,GA
+ManchesterUnited,"Albut, A. H.",1892,1900,(n/a),(n/a),(n/a),(n/a),(n/a),(n/a)
+ManchesterUnited,"West, James",1900,Sep-03,113,46,20,47,159,147
+ManchesterUnited,"Mangnall, Ernest",10-Oct-03,9-Sep-12,373,202,76,95,700,476
+ManchesterUnited,"Wallworth, T. J.",9-Sep-12,20-Oct-12,6,3,2,1,11,7
+ManchesterUnited,"Bentley, John",28-Oct-12,28-Dec-14,82,36,16,30,127,110
+ManchesterUnited,"Robson, Jack",28-Dec-14,31-Oct-21,139,41,42,56,183,207
+ManchesterUnited,"Chapman, John",31-Oct-21,8-Oct-26,221,86,58,77,287,274
+ManchesterUnited,"Hilditch, Lal",8-Oct-26,13-Apr-27,33,10,10,13,38,47
+ManchesterUnited,"Bamlett, Herbert",13-Apr-27,9-Nov-31,183,57,42,84,280,374
+ManchesterUnited,"Crickmer, Walter",9-Nov-31,13-Jul-32,43,17,8,18,72,76
+ManchesterUnited,"Duncan, Scott",13-Jul-32,7-Nov-37,235,92,53,90,371,362
+ManchesterUnited,"Crickmer, Walter",9-Nov-37,15-Feb-45,76,30,24,22,131,112
+ManchesterUnited,"Busby, Matt",1-Oct-45,4-Jun-69,"1,120",565,263,292,"2,286","1,536"
+ManchesterUnited,"Murphy, Jimmy",Feb-58,Jun-58,22,5,7,10,27,42
+ManchesterUnited,"McGuinness, Wilf",4-Jun-69,29-Dec-70,87,32,32,23,127,111
+ManchesterUnited,"Busby, Matt",29-Dec-70,8-Jun-71,21,11,3,7,38,30
+ManchesterUnited,"OFarrell, Frank",8-Jun-71,19-Dec-72,81,30,24,27,115,111
+ManchesterUnited,"Docherty, Tommy",22-Dec-72,4-Jul-77,228,107,56,65,333,252
+ManchesterUnited,"Sexton, Dave",14-Jul-77,30-Apr-81,201,81,64,56,290,240
+ManchesterUnited,"Atkinson, Ron",9-Jun-81,6-Nov-86,292,146,79,67,461,266
+ManchesterUnited,"Ferguson, Alex",6-Nov-86,19-May-13,"1,500",895,338,267,"2,769","1,365"
+ManchesterUnited,"Moyes, David",1-Jul-13,22-Apr-14,51,27,9,15,86,54
+ManchesterUnited,"Giggs, Ryan",22-Apr-14,11-May-14,4,2,1,1,8,3
+ManchesterUnited,"Gaal, Louis van",16-Jul-14,Present,77,39,19,19,114,70

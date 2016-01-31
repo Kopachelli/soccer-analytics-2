@@ -1,57 +1,57 @@
-Name,From,To,W,D,L
-James Cowan,1 August 1906,31 March 1913,128,85,83
-James Howie,1 August 1913,1 April 1920,85,48,103
-Ned Liddell,1 April 1920,31 March 1924,71,42,64
-Bob Hewison,1 August 1925,1 May 1930,80,53,86
-Archie Mitchell,1 November 1931,1 May 1933,32,18,29
-Mick O'Brien,1 May 1933,1 April 1935,40,16,28
-Billy Birrell,1 April 1935,1 May 1939,85,42,57
-Ted Vizard,1 May 1939,1 April 1944,95,29,62
-Dave Mangnall,1 April 1944,31 May 1952,112,74,94
-Jack Taylor,1 June 1952,1 May 1959,118,89,134
-Alec Stock,1 August 1959,1 August 1968,206,104,129
-"Bill Dodgin, Jr.",1 August 1968,1 November 1968,2,5,9
-Tommy Docherty,1 November 1968,30 November 1968,1,0,3
-Les Allen,1 December 1968,6 January 1971,31,23,45
-Gordon Jago,6 January 1971,27 September 1974,71,55,35
-Dave Sexton,16 October 1974,9 July 1977,57,32,41
-Frank Sibley,10 July 1977,29 July 1978,9,17,19
-Alec Stock,30 July 1978,1 August 1978,0,0,0
-Steve Burtenshaw,10 August 1978,10 May 1979,6,13,22
-Tommy Docherty,11 May 1979,1 October 1980,20,16,15
-Terry Venables,1 October 1980,24 May 1984,84,33,49
-Gordon Jago,28 May 1984,5 June 1984,0,0,0
-Alan Mullery,20 June 1984,5 December 1984,11,8,7
-Frank Sibley,5 December 1984,1 June 1985,8,6,14
-Jim Smith,11 June 1985,4 December 1988,67,38,62
-Trevor Francis,14 December 1988,27 November 1989,31,30,32
-Don Howe,28 November 1989,21 May 1991,27,21,27
-Gerry Francis,1 June 1991,11 November 1994,59,47,52
-Ray Wilkins,15 November 1994,4 September 1996,31,13,36
-Stewart Houston,16 September 1996,10 November 1997,25,15,23
-John Hollins,11 November 1997,5 December 1997,1,2,1
-Ray Harford,5 December 1997,28 September 1998,5,18,18
-Iain Dowie,28 September 1998,16 October 1998,1,0,1
-Gerry Francis,16 October 1998,25 February 2001,36,42,47
-Ian Holloway,26 February 2001,2 February 2006,100,71,81
-Gary Waddock,6 February 2006,19 September 2006,4,8,11
-John Gregory,20 September 2006,1 October 2007,13,12,23
-Mick Harford,1 October 2007,29 October 2007,2,2,1
-Luigi De Canio,29 October 2007,12 May 2008,12,11,12
-Iain Dowie,14 May 2008,24 October 2008,8,3,4
-Gareth Ainsworth,24 October 2008,19 November 2008,2,1,4
-Paulo Sousa,19 November 2008,9 April 2009,7,12,7
-Gareth Ainsworth,9 April 2009,3 May 2009,1,1,3
-Jim Magilton,3 June 2009,16 December 2009,9,8,7
-"[u'Steve Gallen', u'\n', u'Marc Bircham']",16 December 2009,17 December 2009,0,1,0
-Paul Hart,17 December 2009,15 January 2010,1,2,2
-Mick Harford,15 January 2010,2 March 2010,1,0,6
-Neil Warnock,2 March 2010,8 January 2012,33,27,24
-Mark Hughes,10 January 2012,23 November 2012,8,6,18
-"[u'Mark Bowen', u'\n', u'Eddie Niedzwiecki']",23 November 2012,24 November 2012,0,0,1
-Harry Redknapp,24 November 2012,3 February 2015,36,26,41
-"[u'Les Ferdinand', u'\n', u'Chris Ramsey']",3 February 2015,4 February 2015,0,0,0
-"[u'Chris Ramsey', u'\n', u'Kevin Bond']",4 February 2015,12 February 2015,1,0,1
-Chris Ramsey,12 February 2015,4 November 2015,8,6,16
-Neil Warnock,4 November 2015,4 December 2015,2,1,1
-Jimmy Floyd Hasselbaink,4 December 2015,Present,0,1,0
+Team,Name,From,To,W,D,L
+QPR,James Cowan,1 August 1906,31 March 1913,128,85,83
+QPR,James Howie,1 August 1913,1 April 1920,85,48,103
+QPR,Ned Liddell,1 April 1920,31 March 1924,71,42,64
+QPR,Bob Hewison,1 August 1925,1 May 1930,80,53,86
+QPR,Archie Mitchell,1 November 1931,1 May 1933,32,18,29
+QPR,Mick O'Brien,1 May 1933,1 April 1935,40,16,28
+QPR,Billy Birrell,1 April 1935,1 May 1939,85,42,57
+QPR,Ted Vizard,1 May 1939,1 April 1944,95,29,62
+QPR,Dave Mangnall,1 April 1944,31 May 1952,112,74,94
+QPR,Jack Taylor,1 June 1952,1 May 1959,118,89,134
+QPR,Alec Stock,1 August 1959,1 August 1968,206,104,129
+QPR,"Bill Dodgin, Jr.",1 August 1968,1 November 1968,2,5,9
+QPR,Tommy Docherty,1 November 1968,30 November 1968,1,0,3
+QPR,Les Allen,1 December 1968,6 January 1971,31,23,45
+QPR,Gordon Jago,6 January 1971,27 September 1974,71,55,35
+QPR,Dave Sexton,16 October 1974,9 July 1977,57,32,41
+QPR,Frank Sibley,10 July 1977,29 July 1978,9,17,19
+QPR,Alec Stock,30 July 1978,1 August 1978,0,0,0
+QPR,Steve Burtenshaw,10 August 1978,10 May 1979,6,13,22
+QPR,Tommy Docherty,11 May 1979,1 October 1980,20,16,15
+QPR,Terry Venables,1 October 1980,24 May 1984,84,33,49
+QPR,Gordon Jago,28 May 1984,5 June 1984,0,0,0
+QPR,Alan Mullery,20 June 1984,5 December 1984,11,8,7
+QPR,Frank Sibley,5 December 1984,1 June 1985,8,6,14
+QPR,Jim Smith,11 June 1985,4 December 1988,67,38,62
+QPR,Trevor Francis,14 December 1988,27 November 1989,31,30,32
+QPR,Don Howe,28 November 1989,21 May 1991,27,21,27
+QPR,Gerry Francis,1 June 1991,11 November 1994,59,47,52
+QPR,Ray Wilkins,15 November 1994,4 September 1996,31,13,36
+QPR,Stewart Houston,16 September 1996,10 November 1997,25,15,23
+QPR,John Hollins,11 November 1997,5 December 1997,1,2,1
+QPR,Ray Harford,5 December 1997,28 September 1998,5,18,18
+QPR,Iain Dowie,28 September 1998,16 October 1998,1,0,1
+QPR,Gerry Francis,16 October 1998,25 February 2001,36,42,47
+QPR,Ian Holloway,26 February 2001,2 February 2006,100,71,81
+QPR,Gary Waddock,6 February 2006,19 September 2006,4,8,11
+QPR,John Gregory,20 September 2006,1 October 2007,13,12,23
+QPR,Mick Harford,1 October 2007,29 October 2007,2,2,1
+QPR,Luigi De Canio,29 October 2007,12 May 2008,12,11,12
+QPR,Iain Dowie,14 May 2008,24 October 2008,8,3,4
+QPR,Gareth Ainsworth,24 October 2008,19 November 2008,2,1,4
+QPR,Paulo Sousa,19 November 2008,9 April 2009,7,12,7
+QPR,Gareth Ainsworth,9 April 2009,3 May 2009,1,1,3
+QPR,Jim Magilton,3 June 2009,16 December 2009,9,8,7
+QPR,"[u'Steve Gallen', u'\n', u'Marc Bircham']",16 December 2009,17 December 2009,0,1,0
+QPR,Paul Hart,17 December 2009,15 January 2010,1,2,2
+QPR,Mick Harford,15 January 2010,2 March 2010,1,0,6
+QPR,Neil Warnock,2 March 2010,8 January 2012,33,27,24
+QPR,Mark Hughes,10 January 2012,23 November 2012,8,6,18
+QPR,"[u'Mark Bowen', u'\n', u'Eddie Niedzwiecki']",23 November 2012,24 November 2012,0,0,1
+QPR,Harry Redknapp,24 November 2012,3 February 2015,36,26,41
+QPR,"[u'Les Ferdinand', u'\n', u'Chris Ramsey']",3 February 2015,4 February 2015,0,0,0
+QPR,"[u'Chris Ramsey', u'\n', u'Kevin Bond']",4 February 2015,12 February 2015,1,0,1
+QPR,Chris Ramsey,12 February 2015,4 November 2015,8,6,16
+QPR,Neil Warnock,4 November 2015,4 December 2015,2,1,1
+QPR,Jimmy Floyd Hasselbaink,4 December 2015,Present,0,1,0
