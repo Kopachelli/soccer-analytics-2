@@ -1,9 +1,10 @@
+Team,Name,From,To,Duration,Matches,Won,Drawn,Lost,GA,GF
 Arsenal,"Graham, George",14-May-86,21-Feb-95,3205,460,225,133,102,403,711
 Arsenal,"Houston, Stewart",21-Feb-95,15-Jun-95,114,19,7,3,9,25,29
 Arsenal,"Rioch, Bruce",15-Jun-95,12-Aug-96,424,47,22,15,10,37,67
 Arsenal,"Houston, Stewart",12-Aug-96,13-Sep-96,32,6,2,2,2,10,11
 Arsenal,"Rice, Pat",13-Sep-96,30-Sep-96,17,4,3,0,1,4,10
-Arsenal,"Wenger, Arsê‘ne",1-Oct-96,Present,,"1,098",632,254,212,990,"1,886"
+Arsenal,"Wenger, Arsêïne",1-Oct-96,Present,,"1,098",632,254,212,990,"1,886"
 AstonVilla,"[u'Atkinson, Ron', u'Ron Atkinson']",1-Jul-91,1-Nov-94,1219,178,77,45,56,,
 AstonVilla,"[u'Little, Brian', u'Brian Little']",1-Nov-94,1-Feb-98,1188,164,68,45,51,,
 AstonVilla,"[u'Gregory, John', u'John Gregory']",1-Feb-98,1-Jan-02,1430,190,82,52,56,,
@@ -459,6 +460,27 @@ SwanseaCity,"[u'Laudrup, Michael', u'Michael Laudrup']",17-Jun-12,4-Feb-14,597,8
 SwanseaCity,"[u'Monk, Garry', u'Garry Monk']",4-Feb-14,9-Dec-15,673,74,28,16,30,,
 SwanseaCity,"[u'Curtis, Alan', u'Alan Curtis', u'[', u'nb 2', u']']",9-Dec-15,18-Jan-16,40,8,2,2,4,,
 SwanseaCity,"[u'Guidolin, Francesco', u'Francesco Guidolin']",18-Jan-16,Present,,0,0,0,0,,
+Tottenham,Doug Livermore & Ray Clemence, 27-May-1992, 19-Jun-1993,388,,,,,,
+Tottenham,Ossie Ardiles, 19-Jun-1993, 01-Nov-1994,500,,,,,,
+Tottenham,Steve Perryman (c), 01-Nov-1994, 15-Nov-1994,14,,,,,,
+Tottenham,Gerry Francis, 15-Nov-1994, 19-Nov-1997,1100,,,,,,
+Tottenham,Chris Hughton (c), 07-Sep-1998, 01-Oct-1998,24,,,,,,
+Tottenham,Christian Gross, 25-Nov-1997, 05-Sep-1998,284,,,,,,
+Tottenham,David Pleat (c), 30-Aug-1993, 03-Oct-1998,1860,,,,,,
+Tottenham,George Graham, 05-Oct-1998, 16-Mar-2001,893,,,,,,
+Tottenham,David Pleat (c), 16-Mar-2001, 02-Apr-2001,17,,,,,,
+Tottenham,Glenn Hoddle, 02-Apr-2001, 21-Sep-2003,902,,,,,,
+Tottenham,David Pleat (c), 21-Sep-2003, 03-Jun-2004,256,,,,,,
+Tottenham,Jacques Santini, 03-Jun-2004, 05-Nov-2004,155,,,,,,
+Tottenham,Martin Jol, 05-Nov-2004, 25-Oct-2007,1084,,,,,,
+Tottenham,Clive Allen (c), 25-Oct-2007, 29-Oct-2007,4,,,,,,
+Tottenham,Alex Inglethorpe (c), 25-Oct-2007, 29-Oct-2007,4,,,,,,
+Tottenham,Juande Ramos, 27-Oct-2007, 25-Oct-2008,364,,,,,,
+Tottenham,Clive Allen (c), 25-Oct-2008, 26-Oct-2008,1,,,,,,
+Tottenham,Harry Redknapp, 26-Oct-2008, 13-Jun-2012,1326,,,,,,
+Tottenham,AndrÃ© Villas-Boas, 03-July-2012, 16-Dec-2013,531,,,,,,
+Tottenham,Tim Sherwood, 16-Dec-2013, 13-May-2014,148,,,,,,
+Tottenham,Mauricio Pochettino, 27-May-2014, Present,,,,,,,
 Watford,"Perryman, Steve",1-Nov-90,1-Jul-93,973,121,42,35,44,,
 Watford,"Roeder, Glenn",1-Jul-93,1-Feb-96,945,120,39,32,49,,
 Watford,"Taylor, Graham",1-Feb-96,1-Jun-96,121,18,5,8,5,,
@@ -475,7 +497,7 @@ Watford,"Zola, Gianfranco",1-Jul-12,1-Dec-13,518,66,29,15,22,,
 Watford,"Sannino, Giuseppe",1-Dec-13,1-Aug-14,243,31,13,8,10,,
 Watford,"Garcê_a Junyent, ê_scar",1-Sep-14,1-Sep-14,0,4,1,2,1,,
 Watford,"McKinlay, Billy",1-Sep-14,1-Oct-14,30,2,1,1,0,,
-Watford,"Jokanoviã_, SlaviÅça",1-Oct-14,1-Jun-15,243,35,21,4,10,,
+Watford,"JokanoviÜ_, SlaviÅça",1-Oct-14,1-Jun-15,243,35,21,4,10,,
 Watford,"Flores, Quique",1-Jun-15,present,,21,8,5,8,,
 WestBrom,"[u'Gould, Bobby', u'Bobby Gould']",25-Feb-91,5-May-92,435,66,22,23,21,,
 WestBrom,"[u'Ardiles, Osvaldo', u'Osvaldo Ardiles']",8-May-92,19-Jun-93,407,55,30,11,14,,
